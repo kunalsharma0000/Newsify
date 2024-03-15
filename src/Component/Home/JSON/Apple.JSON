@@ -1,0 +1,1311 @@
+{
+    "status": "ok apple article",
+    "totalResults": 2026,
+    "articles": [
+    {
+    "source": {
+    "id": 1,
+    "name": "Engadget"
+    },
+
+    "author": "Pranav Dixit",
+    "title": "The Apple Car project is reportedly dead",
+    "description": "Ten years, billions of dollars, multiple leadership changes, and dozens of rumors later, the Apple Car project is dead. A new report from Bloomberg’s Mark Gurman says that Apple has officially canceled the car, breaking the news to nearly 2,000 employees who …",
+    "url": "https://www.engadget.com/the-apple-car-project-is-reportedly-dead-203012885.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/qNPs8xPwpmNuSC9six9ZBg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04Njk-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/0bef1360-d5ad-11ee-aebb-a26dce47afc0",
+    "publishedAt": "2024-02-27T20:30:12Z",
+    "content": "Ten years, billions of dollars, multiple leadership changes, and dozens of rumors later, the Apple Car project is dead. A new report from Bloombergs Mark Gurman says that Apple has officially cancele… [+1946 chars]"
+    },
+    {
+    "source": {
+        "id": 2,
+
+    "name": "Gizmodo.com"
+    },
+
+    "author": "Matt Novak",
+    "title": "WordPress and Tumblr Plan to Sell User Content to AI Companies",
+    "description": "Automattic, the parent company of sites like WordPress and Tumblr, is in talks to sell content from its platforms to AI companies like MidJourney and OpenAI for training purposes, according to a new report from 404 Media Tuesday. And while the details of the …",
+    "url": "https://gizmodo.com/wordpress-tumblr-plan-sell-user-content-ai-companies-1851291225",
+    "urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/8110fdd11e0cb88f65edd4f25a19511e.jpg",
+    "publishedAt": "2024-02-27T22:05:00Z",
+    "content": "Automattic, the parent company of sites like WordPress and Tumblr, is in talks to sell content from its platforms to AI companies like MidJourney and OpenAI for training purposes, according to a new … [+3049 chars]"
+    },
+    {
+    "source": {
+        "id": 3,
+
+    "name": "Ars Technica"
+    },
+
+    "author": "Samuel Axon",
+    "title": "After a decade of stops and starts, Apple kills its electric car project",
+    "description": "Report claims Apple leadership worried profit margins simply wouldn't be there.",
+    "url": "https://arstechnica.com/gadgets/2024/02/after-a-decade-of-stops-and-starts-apple-kills-its-electric-car-project/",
+    "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2020/11/GettyImages-1178102199-760x380.jpg",
+    "publishedAt": "2024-02-27T21:28:57Z",
+    "content": "Enlarge/ Apple's global headquarters in Cupertino, California.\r\n23\r\nAfter 10 years of development, multiple changes in direction and leadership, and a plethora of leaks, Apple has reportedly ended wo… [+2067 chars]"
+    },
+    {
+    "source": {
+    "id": 4,
+    "name": "Android Central"
+    },
+    "author": "Michael L Hicks",
+    "title": "Take two: Meta and LG will team up for Quest Pro 2 'alliance' in 2025",
+    "description": "After the failure of the Quest Pro to resonate with productivity users, Meta is teaming up with LG to try and go back to that form factor now that the Apple Vision Pro is making a splash.",
+    "url": "https://www.androidcentral.com/gaming/virtual-reality/meta-lg-rumored-to-join-alliance-for-quest-pro-2-and-ai-projects",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/ZX7UoxM32QnCD2LYerguLe-1200-80.jpg",
+    "publishedAt": "2024-02-27T01:06:47Z",
+    "content": "What you need to know\r\n<ul><li>Meta CEO Mark Zuckerberg will meet with LG CEO Cho Joo-wan on Wednesday to plan an \"AI-XR alliance,\" according to the Korea Economic Daily. </li><li>Allegedly, LG will … [+3864 chars]"
+    },
+    {
+    "source": {
+    "id": 5,
+    "name": "Android Central"
+    },
+    "author": " Namerah Saud Fatmi",
+    "title": "What in the subgenre crossover is this Magic Drawing Pad?",
+    "description": "XPPen debuted a mid-range Android tablet and it could very well be a budget Samsung contender.",
+    "url": "https://www.androidcentral.com/tablets/what-in-the-subgenre-crossover-is-this-magic-drawing-pad",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/rn7NRfjQpLnyn62ZkJsy6F-1200-80.jpg",
+    "publishedAt": "2024-02-27T09:10:00Z",
+    "content": "(Image credit: Android Central)\r\nJoin Namerah Saud Fatmi as she explores the cool, quirky, and sometimes downright odd world of smartphone accessories, gadgets, and other nerdy toys every week.\r\nEarl… [+6010 chars]"
+    },
+    {
+    "source": {
+    "id": 6,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Releases visionOS 1.1 Beta 4",
+    "description": "Apple today released fourth beta of an upcoming visionOS 1.1 update for developers, allowing them to test new features ahead of the software seeing a public launch. The new update comes a week after the release of the third beta.\n\n\n\n\n\nThe ‌visionOS‌ beta can …",
+    "url": "https://www.macrumors.com/2024/02/27/apple-releases-visionos-1-1-beta-4/",
+    "urlToImage": "https://images.macrumors.com/t/BO4kPTSqY2ytaxPGR56Os77ZBdM=/1920x/article-new/2024/02/visionOS-Home-Screen.jpg",
+    "publishedAt": "2024-02-27T18:23:00Z",
+    "content": "Apple today released fourth beta of an upcoming visionOS 1.1 update for developers, allowing them to test new features ahead of the software seeing a public launch. The new update comes a week after … [+872 chars]"
+    },
+    {
+    "source": {
+    "id":7,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "New Spring Apple Watch Band Colors Coming Soon",
+    "description": "Apple often refreshes Apple Watch band colors on a seasonal basis, and code in iOS 17.4 suggests that new spring colors will be coming soon.\n\n\n\n\n\nAs found by MacRumors contributor Steve Moser, the spring colors include Light Blue, Ocean Blue, Pink, Raspberry,…",
+    "url": "https://www.macrumors.com/2024/02/27/apple-watch-bands-spring-colors/",
+    "urlToImage": "https://images.macrumors.com/t/cIiBbJTBJza8MjVYehdf3L0Hpss=/2500x/article-new/2024/01/apple-watch-orange.jpg",
+    "publishedAt": "2024-02-27T19:53:29Z",
+    "content": "Apple often refreshes Apple Watch band colors on a seasonal basis, and code in iOS 17.4 suggests that new spring colors will be coming soon.\r\nAs found by MacRumors contributor Steve Moser, the spring… [+633 chars]"
+    },
+    {
+    "source": {
+    "id": 8,
+    "name": "MacRumors"
+    },
+    "author": "Hartley Charlton",
+    "title": "Major Shareholders Planning to Force Apple to Reveal Use of AI",
+    "description": "Some of Apple's biggest investors are set to pressure the company tomorrow to reveal its use of artificial intelligence tools (via the Financial Times).\n\n\n\n\n\nApple's annual shareholder meeting takes place tomorrow, allowing those with a major stake in the com…",
+    "url": "https://www.macrumors.com/2024/02/27/shareholders-to-force-apple-to-reveal-ai-use/",
+    "urlToImage": "https://images.macrumors.com/t/X8Mvv4-ay3fM6NWUohr6lbyLJmM=/1600x/article-new/2022/03/hey-siri-banner-apple.jpg",
+    "publishedAt": "2024-02-27T13:18:22Z",
+    "content": "Some of Apple's biggest investors are set to pressure the company tomorrow to reveal its use of artificial intelligence tools (via the Financial Times).\r\nApple's annual shareholder meeting takes plac… [+1921 chars]"
+    },
+    {
+    "source": {
+    "id": 9,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Sonos to Launch $449 Headphones in June to Compete With Apple's AirPods Max",
+    "description": "Sonos, known for its range of speakers and home theater products, is set to enter the headphone market in 2024. Rumors last year indicated Sonos would release headphones as soon as April 2024, but a new report today from Bloomberg suggests Sonos has delayed t…",
+    "url": "https://www.macrumors.com/2024/02/27/sonos-headphones-june-launch/",
+    "urlToImage": "https://images.macrumors.com/t/U86ydPc-JWS1fnp62Jhs8V6obZc=/2500x/article-new/2024/02/Airpods-Max-Feature-Green-Triad.jpg",
+    "publishedAt": "2024-02-27T18:14:00Z",
+    "content": "Sonos, known for its range of speakers and home theater products, is set to enter the headphone market in 2024. Rumors last year indicated Sonos would release headphones as soon as April 2024, but a … [+1943 chars]"
+    },
+    {
+    "source": {
+    "id": 10,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "iPadOS 18 Rumored to Drop Support for These iPad Models",
+    "description": "iPadOS 18 will drop support for iPad models equipped with the A10X Fusion chip, according to a post on X today from a private account with a proven track record of sharing build numbers for upcoming iOS and iPadOS updates.\n\n\n\n\n\nThis means that iPadOS 18 would…",
+    "url": "https://www.macrumors.com/2024/02/27/ipados-18-compatible-ipads-rumor/",
+    "urlToImage": "https://images.macrumors.com/t/y9oCs9lf7Jb8ZChMrEm63IsNs6A=/1600x/article-new/2024/02/iPad-Air-5.jpg",
+    "publishedAt": "2024-02-27T14:55:39Z",
+    "content": "iPadOS 18 will drop support for iPad models equipped with the A10X Fusion chip, according to a post on X today from a private account with a proven track record of sharing build numbers for upcoming … [+1245 chars]"
+    },
+    {
+    "source": {
+    "id": 11,
+    "name": "CNET"
+    },
+    "author": "Adrian Marlow",
+    "title": "Snag Microsoft Office for Mac or Windows for Just $30 - CNET",
+    "description": "If you're tired of monthly subscriptions and don't need the very latest features, you can grab this deal on Office 2019 for cheap.",
+    "url": "https://www.cnet.com/deals/snag-microsoft-office-for-mac-or-windows-for-just-30/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/0a857b38cdbeb38a1faba840b631f48e76a6d92a/hub/2023/11/30/8584b895-5771-4cf9-9d22-2e8944a84f35/artboard-10-2.png?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2024-02-27T15:23:38Z",
+    "content": "Microsoft's Office suite of apps includes probably the most widely used programs in the world. As such, it's no surprise that Microsoft introduced a subscription for it, and while it may be worth it … [+2309 chars]"
+    },
+    {
+    "source": {
+    "id": 12,
+    "name": "CNET"
+    },
+    "author": "Mike Sorrentino",
+    "title": "Samsung Galaxy Ring's AI, Smart Home Integrations Tease at MWC - CNET",
+    "description": "Samsung's giving insights on how the Galaxy Ring's health data could be used to control your home.",
+    "url": "https://www.cnet.com/tech/mobile/samsung-galaxy-rings-ai-smart-home-integrations-tease-at-mwc/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/1163b7ab9c0f4489c27ac71e7b4975f7cc36e2f5/hub/2024/02/26/08fa45fc-1a10-4909-91f1-da74fe460899/samsung-galaxy-ring-mwc-2024-05.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2024-02-27T22:18:00Z",
+    "content": "Samsung debuted its upcoming Galaxy Ring last month alongside the Galaxy S24 phones, and during Mobile World Congress in Barcelona, the company started to highlight how the data the Ring collects wil… [+17798 chars]"
+    },
+    {
+    "source": {
+    "id": 13,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Seeds tvOS 17.4 Beta 5 to Developers",
+    "description": "Apple today seeded the fifth beta of an upcoming tvOS 17.4 update to developers for testing purposes, with the software coming one week after the release of the fourth tvOS 17.4 beta.\n\n\n\n\n\nRegistered developers are able to download the tvOS 17.4 update by opt…",
+    "url": "https://www.macrumors.com/2024/02/27/apple-seeds-tvos-17-4-beta-5/",
+    "urlToImage": "https://images.macrumors.com/t/E_urDANwhe0J--lgmnYT6INo_ow=/2500x/article-new/2022/07/apple-tv-4k-green.jpg",
+    "publishedAt": "2024-02-27T18:37:22Z",
+    "content": "Apple today seeded the fifth beta of an upcoming tvOS 17.4 update to developers for testing purposes, with the software coming one week after the release of the fourth tvOS 17.4 beta.\r\nRegistered dev… [+633 chars]"
+    },
+    {
+    "source": {
+    "id": 14,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Updates Internal 'Unreleased Products' Document Amid Rumors of New iPads and Macs",
+    "description": "Apple today updated an internal support document about \"unannounced or unreleased products,\" according to a proven source familiar with the matter. The update comes amid rumors that Apple is planning to release new iPads and Macs soon, although there is no gu…",
+    "url": "https://www.macrumors.com/2024/02/27/apple-updates-unreleased-products-document/",
+    "urlToImage": "https://images.macrumors.com/t/oC2S2cVA1-S0BEL_BL3Qv8s7oYk=/2500x/article-new/2023/10/M3-iPad-Feature-3.jpg",
+    "publishedAt": "2024-02-27T15:52:14Z",
+    "content": "Apple today updated an internal support document about \"unannounced or unreleased products,\" according to a proven source familiar with the matter. The update comes amid rumors that Apple is planning… [+578 chars]"
+    },
+    {
+    "source": {
+    "id": 15,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Seeds macOS Sonoma 14.4 Beta 5 to Developers",
+    "description": "Apple today seeded the fifth beta of an upcoming macOS Sonoma 14.4 update to developers for testing purposes, with the software coming a week after the release of the fourth beta. \n\n\n\n\n\nRegistered developers can opt-in to the beta through the Software Update …",
+    "url": "https://www.macrumors.com/2024/02/27/apple-seeds-macos-sonoma-14-4-beta-5/",
+    "urlToImage": "https://images.macrumors.com/t/hlTPUK2T2TO3h1-KxJcbOulRzRY=/1600x/article-new/2023/06/sonoma-desktop-wwdc.jpg",
+    "publishedAt": "2024-02-27T18:37:55Z",
+    "content": "Apple today seeded the fifth beta of an upcoming macOS Sonoma 14.4 update to developers for testing purposes, with the software coming a week after the release of the fourth beta. \r\nRegistered develo… [+391 chars]"
+    },
+    {
+    "source": {
+    "id": 16,
+    "name": "MacRumors"
+    },
+    "author": "Juli Clover",
+    "title": "Apple Seeds Release Candidate Versions of iOS 17.4 and iPadOS 17.4 to Developers",
+    "description": "Apple today seeded release candidates of upcoming iOS 17.4 and iPadOS 17.4 to developers for testing purposes, with the updates coming one week after Apple seeded the fourth betas. The RCs are the final versions of the software that will be released to the pu…",
+    "url": "https://www.macrumors.com/2024/02/27/apple-seeds-ios-17-4-release-candidate/",
+    "urlToImage": "https://images.macrumors.com/t/BajGc5E0tDrxIg_EcvGizKnpTGw=/2500x/article-new/2024/01/iOS-17.4-Feature-Orange.jpg",
+    "publishedAt": "2024-02-27T18:25:55Z",
+    "content": "Apple today seeded release candidates of upcoming iOS 17.4 and iPadOS 17.4 to developers for testing purposes, with the updates coming one week after Apple seeded the fourth betas. The RCs are the fi… [+3254 chars]"
+    },
+    {
+    "source": {
+    "id": 17,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "Apple Confirms That iOS 17.4 Lets Video Calling Apps Turn Off Reactions",
+    "description": "Apple today publicly confirmed that iOS 17.4 and iPadOS 17.4 allow developers of video calling apps to turn off the Reactions feature by default in their apps.\n\n\n\n\n\nAs we reported earlier this month, developers can control the default behavior of Reactions in…",
+    "url": "https://www.macrumors.com/2024/02/27/apple-confirms-ios-17-4-reactions-change/",
+    "urlToImage": "https://images.macrumors.com/t/nd0pYI8bMAb0oaMlLAOrW2CpoOU=/1920x/article-new/2023/02/ios-17-facetime-effects.jpg",
+    "publishedAt": "2024-02-27T22:48:09Z",
+    "content": "Apple today publicly confirmed that iOS 17.4 and iPadOS 17.4 allow developers of video calling apps to turn off the Reactions feature by default in their apps.\r\nAs we reported earlier this month, dev… [+1613 chars]"
+    },
+    {
+    "source": {
+    "id": 18,
+    "name": "MacRumors"
+    },
+    "author": "Tim Hardwick",
+    "title": "iPhone 17 and iPhone 17 Plus to Feature ProMotion Always-On Displays",
+    "description": "Next year's iPhone 17 and iPhone 17 Plus will adopt OLED displays with low-power backplane technology, bringing ProMotion to Apple's standard iPhone models for the first time.\n\n\n\n\n\nThe current iPhone 15 and iPhone 15 Plus use low-temperature polycrystalline s…",
+    "url": "https://www.macrumors.com/2024/02/27/iphone-17-always-on-promotion-displays/",
+    "urlToImage": "https://images.macrumors.com/t/NEcBMJhI8PFhlag0uAorsl5S_MQ=/2500x/article-new/2023/03/iPhone-15-Pro-Multi-Purpose-button-Mute-Switch-Feature-Green.jpg",
+    "publishedAt": "2024-02-27T09:13:18Z",
+    "content": "Next year's iPhone 17 and iPhone 17 Plus will adopt OLED displays with low-power backplane technology, bringing ProMotion to Apple's standard iPhone models for the first time.\r\nThe current iPhone 15 … [+1941 chars]"
+    },
+    {
+    "source": {
+    "id": 19,
+    "name": "MacRumors"
+    },
+    "author": "Joe Rossignol",
+    "title": "iOS 18 Rumored to Be Compatible With These iPhone Models",
+    "description": "iOS 18 will be compatible with the iPhone XR, and thereby also the iPhone XS and iPhone XS Max models with the same A12 Bionic chip, according to a post on X today from a private account with a proven track record of sharing build numbers for upcoming iOS upd…",
+    "url": "https://www.macrumors.com/2024/02/27/ios-18-compatible-iphones-rumor/",
+    "urlToImage": "https://images.macrumors.com/t/hyCE8-5_OUp1g1Om1cLH-iCTGH0=/2250x/article-new/2024/02/iOS-18-Mock-iPhone-16-Feature-Gray.jpg",
+    "publishedAt": "2024-02-27T14:31:29Z",
+    "content": "iOS 18 will be compatible with the iPhone XR, and thereby also the iPhone XS and iPhone XS Max models with the same A12 Bionic chip, according to a post on X today from a private account with a prove… [+1277 chars]"
+    },
+    {
+    "source": {
+    "id": 20,
+    "name": "MacRumors"
+    },
+    "author": "Mitchel Broussard",
+    "title": "Apple's 13-Inch M2 MacBook Air on Sale for $949 at Best Buy ($150 Off)",
+    "description": "Apple's 13.6-inch 256GB M2 MacBook Air has dropped to $949.00 today on Best Buy, down from $1,099.00. Best Buy offers free next-day shipping as well as in-store pickup for most locations, and has all four colors of Space Gray, Silver, Midnight, and Starlight …",
+    "url": "https://www.macrumors.com/2024/02/27/13-inch-m2-macbook-air-drops/",
+    "urlToImage": "https://images.macrumors.com/t/EDFs9C5AbdoraTw0aaul8-QUHM4=/1600x/article-new/2023/03/macbook-air-spacegray-purple.jpg",
+    "publishedAt": "2024-02-27T16:12:34Z",
+    "content": "Apple's 13.6-inch 256GB M2 MacBook Air has dropped to $949.00 today on Best Buy, down from $1,099.00. Best Buy offers free next-day shipping as well as in-store pickup for most locations, and has all… [+931 chars]"
+    },
+    {
+    "source": {
+    "id": 21,
+    "name": "NPR"
+    },
+    "author": "NPR",
+    "title": "Trying To Protect Access To IVF",
+    "description": "The backlash to the Alabama Supreme Court ruling designating frozen embryos has been intense. Republicans at the state and national level have openly disagreed with the decision. And Democrats have used the ruling to hammer Republicans over reproductive right…",
+    "url": "https://www.npr.org/2024/02/27/1198910515/trying-to-protect-access-to-ivf",
+    "urlToImage": "https://media.npr.org/assets/img/2024/02/27/gettyimages-20360045391_wide-7529c72e68b391de72503693080a75ea5922b820-s1400-c100.jpg",
+    "publishedAt": "2024-02-27T22:29:21Z",
+    "content": "US Senator Tammy Duckworth (D-IL) speaks during a news conference, on protections for access to in vitro fertilization. Last week the Alabama Supreme Court ruled that frozen embryos have the same rig… [+1082 chars]"
+    },
+    {
+    "source": {
+    "id": 22,
+    "name": "Business Insider"
+    },
+    "author": "Aaron Mok",
+    "title": "Looks like there won't be an Apple car after all",
+    "description": "Apple is ending its electric car project its been working on for about a decade, sources told Bloomberg.",
+    "url": "https://www.businessinsider.com/apple-is-shutting-down-its-ev-project-2024-2",
+    "urlToImage": "https://i.insider.com/65de36a490413ab8e1d734d1?width=1200&format=jpeg",
+    "publishedAt": "2024-02-27T19:31:45Z",
+    "content": "Apple is ending its electric car project that was about a decade in the making. Fernando Gutierrez-Juarez/Getty Images\r\n<ul><li>Apple is ending its electric car project about a decade in the making, … [+956 chars]"
+    },
+    {
+    "source": {
+    "id": 23,
+    "name": "Business Insider"
+    },
+    "author": "Aaron Mok",
+    "title": "What's it like growing up when your dad is Microsoft's CEO? Steve Ballmer's son gave an interview about it.",
+    "description": "Pete Ballmer, the son of ex-Microsoft CEO Steve Ballmer, said he felt \"deeply uncomfortable\" growing up with his dad on the \"Cash Cuties\" podcast.",
+    "url": "https://www.businessinsider.com/microsoft-ceo-steve-ballmer-son-pete-interview-podcast-growing-up-2024-2",
+    "urlToImage": "https://i.insider.com/65de16506080194819fa7a9d?width=1200&format=jpeg",
+    "publishedAt": "2024-02-27T17:52:21Z",
+    "content": "Pete Ballmer, whose father is ex-Microsoft CEO Steve Ballmer (seen here), talked candidly about what his upbringing was like. REUTERS/Lee Jae-Won\r\n<ul><li>Pete Ballmer, the son of Microsoft's former … [+3709 chars]"
+    },
+    {
+    "source": {
+    "id": 24,
+    "name": "Hipertextual"
+    },
+    "author": "Luis Miranda",
+    "title": "Apple cancela el Apple Car para enfocarse en la inteligencia artificial",
+    "description": "Apple canceló el proyecto del Apple Car, su iniciativa para construir un coche eléctrico. A una década de haber iniciado, el Project Titan dejó de existir con el objetivo de centrarse en otras áreas estratégicas de la compañía. El gigante tecnológico avisó a …",
+    "url": "http://hipertextual.com/2024/02/apple-cancela-apple-car-coche-electrico-inteligencia-artificial",
+    "urlToImage": "https://imgs.hipertextual.com/wp-content/uploads/2024/02/project-titan-apple-car.jpg",
+    "publishedAt": "2024-02-27T19:16:03Z",
+    "content": "Apple canceló el proyecto del Apple Car, su iniciativa para construir un coche eléctrico. A una década de haber iniciado, el Project Titan dejó de existir con el objetivo de centrarse en otras áreas … [+442 chars]"
+    },
+    {
+    "source": {
+    "id": 25,
+    "name": "Slate Magazine"
+    },
+    "author": "Mary C. Curtis",
+    "title": "War in Ukraine, Two Years In",
+    "description": "The next big, decisive event in the war might be the American presidential election.",
+    "url": "https://slate.com/podcasts/what-next/2024/02/can-ukraine-keep-fighting-russia",
+    "urlToImage": "https://compote.slate.com/images/c767827b-365a-4a29-ba73-9d5ec5225363.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+    "publishedAt": "2024-02-27T10:00:00Z",
+    "content": "The situation for Ukraine is slipping from a stalemate to again losing territory to the Russian invasion. After two years of combat, will American and EU allies support the Ukrainian cause for as lon… [+478 chars]"
+    },
+    {
+    "source": {
+    "id": 26,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Pastor",
+    "title": "Apple Arcade en peligro: los desarrolladores cada vez salen peor parados en una plataforma que les mimaba y ahora los maltrata",
+    "description": "Apple Arcade es un éxito arrollador. No lo decimos nosotros, sino los más de 100 millones de usuarios que ya en 2022 se estimaba que pagaban religiosamente la (cada vez más alta) cuota mensual de acceso a este particular \"Netflix de los videojuegos móviles\". …",
+    "url": "https://www.xataka.com/moviles/apple-arcade-peligro-desarrolladores-cada-vez-salen-peor-parados-plataforma-que-les-mimaba-ahora-maltrata",
+    "urlToImage": "https://i.blogs.es/81ed00/arcade-1/840_560.jpeg",
+    "publishedAt": "2024-02-27T14:01:27Z",
+    "content": "Apple Arcade es un éxito arrollador. No lo decimos nosotros, sino los más de 100 millones de usuarios que ya en 2022 se estimaba que pagaban religiosamente la (cada vez más alta) cuota mensual de acc… [+4277 chars]"
+    },
+    {
+    "source": {
+    "id": 27,
+    "name": "Xataka.com"
+    },
+    "author": "Rubén Andrés",
+    "title": "MWC sin gafas: Apple Vision Pro se toma un año de ventaja",
+    "description": "El MWC es uno de los mayores escaparates tecnológicos del mundo y las marcas se afanan en la medida de lo posible para mostrar sus mejores armas durante esta feria. Reunir a los principales fabricantes durante cuatro días en un mismo espacio y tiempo deja una…",
+    "url": "https://www.xataka.com/realidad-virtual-aumentada/mwc-gafas-apple-vision-pro-se-toma-ano-ventaja",
+    "urlToImage": "https://i.blogs.es/4b001f/img20240227085212/840_560.jpeg",
+    "publishedAt": "2024-02-27T15:01:29Z",
+    "content": "El MWC es uno de los mayores escaparates tecnológicos del mundo y las marcas se afanan en la medida de lo posible para mostrar sus mejores armas durante esta feria. Reunir a los principales fabricant… [+2965 chars]"
+    },
+    {
+    "source": {
+    "id": 28,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Marquez",
+    "title": "Apple cancela su proyecto de coche eléctrico: el equipo será transferido a otra división de la compañía, según Bloomberg",
+    "description": "El “Apple Car” finalmente no será una realidad. La compañía de Cupertino ha comunicado de manera interna que ya no trabajará en su proyecto para construir un coche eléctrico. Project Titan, que es como se le conocía a la iniciativa, es oficialmente parte del …",
+    "url": "https://www.xataka.com/movilidad/apple-cancela-su-proyecto-de-coche-electrico-el-equipo-sera-transferido-a-otra-division-de-la-compania-segun-bloomberg",
+    "urlToImage": "https://i.blogs.es/5f73f8/apple-car-concepto-no-oficial-portada/840_560.jpeg",
+    "publishedAt": "2024-02-27T19:29:40Z",
+    "content": "El Apple Car finalmente no será una realidad. La compañía de Cupertino ha comunicado de manera interna que ya no trabajará en su proyecto para construir un coche eléctrico. Project Titan, que es como… [+330 chars]"
+    },
+    {
+    "source": {
+    "id": 29,
+    "name": "Xataka.com"
+    },
+    "author": "Jose García",
+    "title": "Esta app convierte el smartwatch en un ratón para controlar el PC haciendo gestos con la mano (como suena)",
+    "description": "En el MWC hemos visto todo tipo de rarezas y cosas curiosas, pero una de las que más nos han llamado la atención es Wowmouse. Se trata de una aplicación que conocimos en el pasado CES de Las Vegas y que, en pocas palabras, es capaz de convertir nuestro reloj …",
+    "url": "https://www.xataka.com/aplicaciones/esta-app-convierte-smartwatch-raton-para-controlar-pc-haciendo-gestos-mano-como-suena",
+    "urlToImage": "https://i.blogs.es/d4f628/doublepoint-wowmouse-mwc24---google-pixel-2-watch---image-3/840_560.jpeg",
+    "publishedAt": "2024-02-27T19:01:31Z",
+    "content": "En el MWC hemos visto todo tipo de rarezas y cosas curiosas, pero una de las que más nos han llamado la atención es Wowmouse. Se trata de una aplicación que conocimos en el pasado CES de Las Vegas y … [+2005 chars]"
+    },
+    {
+    "source": {
+    "id": 30,
+    "name": "Xataka.com"
+    },
+    "author": "Javier Lacort",
+    "title": "Así es como gana dinero NVIDIA: de ser una empresa de gaming a dominar los centros de datos en la era de la IA",
+    "description": "Quizás no se acuerden, pero 'Así es como gana dinero...' era una serie de artículos de Xataka que publicamos entre 2018 y 2019. En ellos desgranábamos los modelos de negocio de cada gran empresa tecnológica a partir de sus informes financieros. Cuáles son sus…",
+    "url": "https://www.xataka.com/empresas-y-economia/asi-como-gana-dinero-nvidia-ser-empresa-gaming-a-dominar-centros-datos-era-ia",
+    "urlToImage": "https://i.blogs.es/b111a9/nvidia-2/840_560.jpeg",
+    "publishedAt": "2024-02-27T11:01:28Z",
+    "content": "Quizás no se acuerden, pero 'Así es como gana dinero...' era una serie de artículos de Xataka que publicamos entre 2018 y 2019. En ellos desgranábamos los modelos de negocio de cada gran empresa tecn… [+5607 chars]"
+    },
+    {
+    "source": {
+    "id": 31,
+    "name": "ABC News"
+    },
+    "author": "Deena Zaru",
+    "title": "Family of exonerated man files lawsuit against deputy who fatally shot him",
+    "description": "The family of Leonard Cure has filed a federal lawsuit after he was fatally shot by a sheriff's deputy.",
+    "url": "https://abcnews.go.com/US/family-exonerated-georgia-man-files-16-million-federal/story?id=107594691",
+    "urlToImage": "https://i.abcnewsfe.com/a/0b1521bb-1aff-4802-82b3-a68b81d42cb7/leonard-allen-cure-1-ap-bb-231017_1697556533696_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-02-27T21:50:46Z",
+    "content": "The family of an exonerated Georgia man, who was fatally shot by a sheriff's deputy in October, filed a $16 million federal lawsuit on Tuesday and claimed excessive force was used during the encounte… [+6346 chars]"
+    },
+    {
+    "source": {
+    "id": 32,
+    "name": "Digital Trends"
+    },
+    "author": "Aaron Mamiit",
+    "title": "The 15-inch MacBook Air is back at its cheapest-ever price",
+    "description": "The 15-inch Apple MacBook Air M2 with 8GB of RAM and a 256GB SSD is down to its cheapest-ever price of $999 from Best Buy, less than a year since it launched.",
+    "url": "https://www.digitaltrends.com/computing/apple-macbook-air-m2-15-inch-deal-best-buy-february-2024/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/macbookair15-03.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-02-27T13:55:58Z",
+    "content": "Luke Larsen / Digital Trends\r\nThe 8GB of RAM, 256GB SSD version of the 15-inch Apple MacBook Air M2, a 2023 update for the 2022 Apple MacBook Air M2 that featured a 13.6-inch display, is already avai… [+1709 chars]"
+    },
+    {
+    "source": {
+    "id": 33,
+    "name": "Digital Trends"
+    },
+    "author": "Alex Blake",
+    "title": "Whatever you do, don’t buy a MacBook Air right now",
+    "description": "Apple’s M2 MacBook Air is about to be replaced, so if you’re thinking of getting a new Apple laptop, you should wait just a few weeks to avoid disappointment.",
+    "url": "https://www.digitaltrends.com/computing/dont-buy-m2-macbook-air-right-now/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2023/06/macbookair15-04.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-02-27T12:30:27Z",
+    "content": "Luke Larsen / Digital Trends\r\nGot your eye on a shiny new MacBook Air? We can’t blame you, they’re fantastic laptops. But before you pull the trigger, you should consider holding off for a few more w… [+4414 chars]"
+    },
+    {
+    "source": {
+    "id": 34,
+    "name": "Digital Trends"
+    },
+    "author": "Luke Larsen",
+    "title": "The new Dell UltraSharp 34 ultrawide is a productivity nerd’s dream come true",
+    "description": "Dell's latest ultrawide UltraSharp monitor adds 120Hz to the mix, in addition to its IPS Black panel.",
+    "url": "https://www.digitaltrends.com/computing/dell-ultrasharp-34-u3425we-review/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2024/02/dell-ultrasharp-34-01.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-02-27T05:44:18Z",
+    "content": "In just this past year, gaming monitors have enjoyed a successful jump to OLED. The technology is maturing, there are choices aplenty, and prices have even begun to drop.\r\nBut in the world of product… [+12879 chars]"
+    },
+    {
+    "source": {
+    "id": 35,
+    "name": "Digital Trends"
+    },
+    "author": "Saab Hannah",
+    "title": "10 best animated movies of all time, ranked",
+    "description": "DT ranks the 10 best animated movies of all time, from the groundbreaking Disney classic Snow White and the Seven Dwarfs to Hayao Miyazaki's Spirited Away.",
+    "url": "https://www.digitaltrends.com/movies/best-animated-movies-of-all-time-ranked/",
+    "urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2020/06/toy-story.jpg?resize=1200%2C630&p=1",
+    "publishedAt": "2024-02-27T14:00:33Z",
+    "content": "Pixar\r\nAnimation has come a long way since its early roots, with the genre evolving from painstakingly hand-drawn scenes to innovative digital creations. The medium has also evolved from being associ… [+11186 chars]"
+    },
+    {
+    "source": {
+    "id":36,
+    "name": "The Atlantic"
+    },
+    "author": "Kate Lindsay",
+    "title": "If Online Ads Feel More Annoying, It’s Because They Are",
+    "description": "What isn’t an ad these days?",
+    "url": "https://www.theatlantic.com/technology/archive/2024/02/online-ads-more-annoying/677576/?utm_source=feed",
+    "urlToImage": null,
+    "publishedAt": "2024-02-27T12:00:00Z",
+    "content": "These days, turning on my Amazon Fire smart TV is like a reflex test. Hesitate for even a second, and the home screen starts blasting an ad for the latest show or movie from Amazon Prime. Even if I d… [+9064 chars]"
+    },
+    {
+    "source": {
+    "id":37,
+    "name": "The Atlantic"
+    },
+    "author": "Lora Kelley",
+    "title": "Two Theories for Americans’ Dire Economic Outlook",
+    "description": "A conversation with Rogé Karma about what economic measures fail to grasp",
+    "url": "https://www.theatlantic.com/newsletters/archive/2024/02/americans-feelings-economy-gap/677581/?utm_source=feed",
+    "urlToImage": null,
+    "publishedAt": "2024-02-27T23:18:00Z",
+    "content": "This is an edition of The Atlantic Daily, a newsletter that guides you through the biggest stories of the day, helps you discover new ideas, and recommends the best in culture. Sign up for it here.Ev… [+8424 chars]"
+    },
+    {
+    "source": {
+    "id": 38,
+    "name": "Beltmag.com"
+    },
+    "author": "Matthew Meduri",
+    "title": "Consider the Pawpaw",
+    "description": "Not everyone knows what a pawpaw is. Until more recently, it has been discarded and forgotten, falling in and out of favor over the years. For some, it is a luscious dessert, a delightful treasure hiding in the woods. For others, it is, to say the least, an a…",
+    "url": "https://beltmag.com/consider-the-pawpaw/",
+    "urlToImage": "https://beltmag.com/wp-content/uploads/2024/02/Asimina_triloba-scaled.jpg",
+    "publishedAt": "2024-02-27T13:11:47Z",
+    "content": "Not everyone knows what a pawpaw is. Until more recently, it has been discarded and forgotten, falling in and out of favor over the years. For some, it is a luscious dessert, a delightful treasure hi… [+33965 chars]"
+    },
+    {
+    "source": {
+    "id": 39,
+    "name": "Wheresyoured.at"
+    },
+    "author": "Edward Zitron",
+    "title": "Software Has Eaten the Media",
+    "description": "As I wrote a year ago in The Rot Economy (and as I argued on the first episode of my podcast Better Offline), I believe that both public and private markets have become decoupled from the concept of \"good business,\" ruled instead by a hunger for the eternal g…",
+    "url": "https://www.wheresyoured.at/the-anti-economy/",
+    "urlToImage": "https://www.wheresyoured.at/content/images/2024/01/wyea--1.jpeg",
+    "publishedAt": "2024-02-27T16:12:00Z",
+    "content": "As I wrote a year ago in The Rot Economy\r\n (and as I argued on the first episode of my podcast Better Offline\r\n), I believe that both public and private markets have become decoupled from the concept… [+24871 chars]"
+    },
+    {
+    "source": {
+    "id": 40,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "何もしていないのに突然「Apple Vision Pro」のガラスにヒビが入ったとの報告が相次ぐ、修理費はなんと12万円",
+    "description": "Apple Vision Proを落としたり物をぶつけたりしていないにもかかわらず、本体のフロントガラスに亀裂が入ってしまったと、複数のユーザーが報告しています。続きを読む...",
+    "url": "https://gigazine.net/news/20240228-apple-vision-pro-front-glass-cracked/",
+    "urlToImage": "https://i.gzn.jp/img/2024/02/28/apple-vision-pro-front-glass-cracked/00.jpg",
+    "publishedAt": "2024-02-27T21:00:00Z",
+    "content": "Apple Vision Pro - GIGAZINE\r\nApple Vision Pro - GIGAZINE\r\n53Apple Vision Pro23 - GIGAZINE\r\nApple Vision Pro - GIGAZINE\r\nApple Vision Pro - GIGAZINE"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Gigazine.net"
+    },
+    "author": "@GIGAZINE",
+    "title": "Appleは自らがPWAを廃止した行為を「EUのせい」と責任転嫁しようとしているとの指摘",
+    "description": "ウェブサイト上で利用できるサービスを端末上で再現する「プログレッシブウェブアプリ(PWA)」のサポートを、Appleは何の前触れもなく廃止しました。これはEUで施行されたデジタル市場法(DMA)に準拠するためだったのですが、そのようなAppleの言い分は言い訳に過ぎず、競合他社を蹴落とす狙いがあるとして、ChromeやEdgeの開発をリードしてきたアレックス・ラッセル氏が強く非難しています。続きを読む...",
+    "url": "https://gigazine.net/news/20240228-apple-pwa-dma/",
+    "urlToImage": "https://i.gzn.jp/img/2024/02/28/apple-pwa-dma/00.jpg",
+    "publishedAt": "2024-02-27T22:00:00Z",
+    "content": "(PWA)AppleEU(DMA)AppleChromeEdge\r\nHome Screen Advantage - Infrequently Notedhttps://infrequently.org/2024/02/home-screen-advantage/\r\niOS 17.4PWA20242AppleDMAWebkitiOSWebkitPWAEUPWA\r\nDMAApp StoreApple… [+228 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Ben Schwan",
+    "title": "\"Stinkt schon\": Entwickler wünschen sich mehr Liebe für Apple Arcade",
+    "description": "Apples Spieledienst bietet viele Titel zum Pauschalpreis. Allerdings werden diese nicht ausreichend gehegt und gepflegt. Davor warnen nun die Entwickler selbst.",
+    "url": "https://www.heise.de/news/Stinkt-schon-Entwickler-wuenschen-sich-mehr-Liebe-fuer-Apple-Arcade-9639732.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/4/8/3/7/6/shutterstock_1523594084-56b2ec6e57d04bd1.jpg",
+    "publishedAt": "2024-02-27T09:00:00Z",
+    "content": "Wie geht es weiter mit Apple Arcade? Der 2019 gestartete Abo-Spieledienst für Nutzer von iPhone, iPad, Mac und Apple TV, der nach einer Preiserhöhung nun 7 Euro im Monat für rund 200 Spiele kostet, s… [+2702 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": " Mark Zimmermann",
+    "title": "Digital Markets Act: Neue Freiheiten und Herausforderungen für iOS-Entwickler",
+    "description": "Im Zuge des Digital Markets Act (DMA) eröffnen sich für App-Entwickler in der EU neue Distributionskanäle. Damit sind jedoch Risiken verbunden.​",
+    "url": "https://www.heise.de/hintergrund/Digital-Markets-Act-Neue-Freiheiten-und-Herausforderungen-fuer-iOS-Entwickler-9637241.html?wt_mc=rss.red.ho.ho.atom.beitrag.beitrag",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/4/7/0/8/1/app-store-iphone-tre-d2d7bc8e3d9ee96d.jpg",
+    "publishedAt": "2024-02-27T07:16:00Z",
+    "content": "Inhaltsverzeichnis\r\nApple steht für geschlossene Systeme und strengen Kontrollen, sieht sich aber jetzt mit einer neuen Realität konfrontiert: Der Digital Markets Act (DMA) der Europäischen Union zwi… [+25212 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "heise online"
+    },
+    "author": "Daniel AJ Sokolov",
+    "title": "MWC: Smartphones: Oppo kehrt nach Europa zurück",
+    "description": "Ein Patentvertrag mit Nokia öffnet Oppo die Tür zu europäischen Märkten. Jetzt schreitet Oppo hindurch und bringt Handys, Tablets und Kopfhörer.​",
+    "url": "https://www.heise.de/news/Smartphones-Oppo-kehrt-nach-Europa-zurueck-9640894.html",
+    "urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/4/8/9/8/1/Bingo_Lui_Oppo-a2c55dad3fc27ff4.png",
+    "publishedAt": "2024-02-27T20:51:00Z",
+    "content": "Oppo tritt wieder auf europäische Märkte. Möglich macht dies ein Patentvertrag mit Nokia. Das 5G-Smartphone Oppo Reno 11 F wird das erste neue Gerät sein, dass der chinesische Anbieter seit eineinhal… [+2258 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Bradley Chambers",
+    "title": "Apple @ Work Podcast: Webex comes to Apple TV and Vision Pro",
+    "description": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary to seamlessly and automatically deploy, manage & protect App…",
+    "url": "https://9to5mac.com/2024/02/27/apple-work-podcast-webex-comes-to-apple-tv-and-vision-pro/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/Apple-At-Work-FI.png?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T11:00:00Z",
+    "content": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional-grade platform all the solutions necessary … [+479 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple cancels Apple Car project, moves team to generative AI projects",
+    "description": "Bloomberg reports that Apple has officially canceled its effort to build an electric car. “Apple made the disclosure internally Tuesday, surprising the nearly 2,000 employees working on the project, said the people, who asked not to be identified because the …",
+    "url": "https://9to5mac.com/2024/02/27/apple-cancels-apple-car-project-moves-team-to-generative-ai-projects/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2022/07/apple-car-carplay-design.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T19:03:47Z",
+    "content": "Bloomberg reports that Apple has officially canceled its effort to build an electric car. “Apple made the disclosure internally Tuesday, surprising the nearly 2,000 employees working on the project, … [+564 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Apple releases first iOS 17.4 RC",
+    "description": "Apple has released the first iOS 17.4 RC (release candidate) ahead of the expected final version shipping next week. \n\n\n\niOS 17.4 addresses new regulation in the EU as required by the Digital Markets Act. The primary change is in policy with Apple now forced …",
+    "url": "https://9to5mac.com/2024/02/27/ios-17-4-rc/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/17.4-beta-4-splash-screen.jpg.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T18:24:51Z",
+    "content": "Apple has released the first iOS 17.4 RC (release candidate) ahead of the expected final version shipping next week. \r\niOS 17.4 addresses new regulation in the EU as required by the Digital Markets A… [+3629 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Biden deputy press secretary leaving White House for Apple",
+    "description": "Apple is reportedly hiring away the current White House deputy press secretary. Olivia Alair Dalton currently serves as Deputy Assistant to the President and White House Principal Deputy Press Secretary.\n\n\n\n more…",
+    "url": "https://9to5mac.com/2024/02/27/olivia-alair-dalton-white-house-apple/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/olivia-alair-dalton.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T17:47:36Z",
+    "content": "Apple is reportedly hiring away the current White House deputy press secretary. Olivia Alair Dalton currently serves as Deputy Assistant to the President and White House Principal Deputy Press Secret… [+1171 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Apple says iOS 17.4 includes these bug fixes and upgrades",
+    "description": "Apple has published the full release notes for iOS 17.4, offering an in-depth look at new features and bug fixes. Apple says the update fixes problems with Find My, Dual SIM users, and more. Head below for the full details. \n\n\n\n more…",
+    "url": "https://9to5mac.com/2024/02/27/apple-says-ios-17-4-includes-these-bug-fixes-and-upgrades/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/when-does-ios-17-4-come-out.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T18:41:05Z",
+    "content": "Apple has published the full release notes for iOS 17.4, offering an in-depth look at new features and bug fixes. Apple says the update fixes problems with Find My, Dual SIM users, and more. Head bel… [+1544 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Seth Kurkowski",
+    "title": "9to5Mac Daily: February 27, 2024 – Apple smart home devices, more",
+    "description": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overcast and other podcast players.\n\n\n\nSponsored by Capital One S…",
+    "url": "https://9to5mac.com/2024/02/27/daily-february-27-2024/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/9to5Mac-Daily-art-lead.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T15:48:52Z",
+    "content": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apples Podcasts app, Stitcher, TuneIn, Google Play, or through our dedicated RSS feed for Overca… [+608 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "MIDI Widgets unlocks expansive capabilities for musicians with Apple Vision Pro",
+    "description": "We’re still learning everything Apple Vision Pro can do thanks to creative developers like Geert Bevin. For example, did you know apps can create floating wrist HUDs as if you were wearing a futuristic watch that projected information? That’s something his ne…",
+    "url": "https://9to5mac.com/2024/02/27/midi-widgets-apple-vision-pro/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/MIDI-WIDGETS.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T18:21:06Z",
+    "content": "We’re still learning everything Apple Vision Pro can do thanks to creative developers like Geert Bevin. For example, did you know apps can create floating wrist HUDs as if you were wearing a futurist… [+2867 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Meta Glasses expected to be revealed in the fall, but not go on sale for years",
+    "description": "Apple and Meta won’t just be competing with their VR headsets – they are also likely to be gearing up for a later battle between Apple Glasses and Meta Glasses.\n\n\n\nWhile both devices are believed to be years from launch, a new report today says that we’ll get…",
+    "url": "https://9to5mac.com/2024/02/27/meta-glasses-fall-reveal/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Meta-Glasses-expected-to-be-revealed-in-the-fall.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T15:28:43Z",
+    "content": "Apple and Meta won’t just be competing with their VR headsets they are also likely to be gearing up for a later battle between Apple Glasses and Meta Glasses.\r\nWhile both devices are believed to be y… [+2609 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple Ring patent granted, as reports circulate – but this one is likely dead",
+    "description": "An Apple Ring patent application has been granted, amid conflicting reports about the status of the company’s development of such a device.\n\n\n\nHowever, while recent reports focus more on the applications of a ring as a health sensor as a cheaper alternative t…",
+    "url": "https://9to5mac.com/2024/02/27/apple-ring-patent/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Apple-Ring-patent-granted.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T14:19:36Z",
+    "content": "An Apple Ring patent application has been granted, amid conflicting reports about the status of the company’s development of such a device.\r\nHowever, while recent reports focus more on the applicatio… [+2342 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "These new emoji are coming to iPhone in iOS 17.4",
+    "description": "Apple is updating the iPhone with even more emoji characters. iOS 17.4 introduces new ways to express approval or denial, break through the chains, rise from the ashes, or just express that limes are superior to lemons. There’s also a mushroom that looks less…",
+    "url": "https://9to5mac.com/2024/02/27/new-emoji-ios-17/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/01/emoji-17-4.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T09:26:14Z",
+    "content": "Apple is updating the iPhone with even more emoji characters. iOS 17.4 introduces new ways to express approval or denial, break through the chains, rise from the ashes, or just express that limes are… [+660 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "Is there room for a smart ring in Apple’s lineup of wearable products?",
+    "description": "Rumors about Apple working on a smart ring are not new. In fact, it’s been almost a decade since the company patented the concept of an “iRing” with sensors, but that product has never seen the light of day. More recently, rumors again raised the possibility …",
+    "url": "https://9to5mac.com/2024/02/27/smart-ring-apple-lineup/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Samsung-Galaxy-Ring-spurs-report-of-Apple-smart-ring.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T23:48:27Z",
+    "content": "Rumors about Apple working on a smart ring are not new. In fact, it’s been almost a decade since the company patented the concept of an “iRing” with sensors, but that product has never seen the light… [+3140 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Zac Hall",
+    "title": "Apple releases visionOS 1.1 beta 4 alongside macOS Sonoma 14.4 beta 5",
+    "description": "In addition to releasing iOS 17.4 RC 1, Apple has updated several other beta software releases today. This includes the fourth beta of the upcoming visionOS 1.1 update. The new version adds mobile device management support for enterprise email and calendar, t…",
+    "url": "https://9to5mac.com/2024/02/27/visionos-1-1-beta-4/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/visionos-1.1-hero-beta.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T18:47:56Z",
+    "content": "In addition to releasing iOS 17.4 RC 1, Apple has updated several other beta software releases today. This includes the fourth beta of the upcoming visionOS 1.1 update. The new version adds mobile de… [+946 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Apple faces five shareholder proposals, and doesn’t like any of them",
+    "description": "Tomorrow is the date of Apple’s annual shareholder meeting, and the company this year faces five shareholder proposals – and recommends voting against all of them.\n\n\n\nThe company went as far as trying to exclude one of them, but the Securities and Exchange Co…",
+    "url": "https://9to5mac.com/2024/02/27/apple-shareholder-proposals/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Apple-faces-five-shareholder-proposals.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T12:20:41Z",
+    "content": "Tomorrow is the date of Apple’s annual shareholder meeting, and the company this year faces five shareholder proposals and recommends voting against all of them.\r\nThe company went as far as trying to… [+3350 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "iOS 17.4 RC reportedly coming tomorrow as DMA deadline approaches",
+    "description": "iOS 17.4 beta has been available to developers and beta testers since last month, and it brings a lot of significant changes such as App Marketplaces for installing apps outside the App Store in the EU. As the Digital Markets Act (DMA) antitrust legislation d…",
+    "url": "https://9to5mac.com/2024/02/26/ios-17-4-rc-release-date/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/iOS-17.4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T02:29:41Z",
+    "content": "iOS 17.4 beta has been available to developers and beta testers since last month, and it brings a lot of significant changes such as App Marketplaces for installing apps outside the App Store in the … [+1567 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Always-on display expectations for iPhone 16 and iPhone 17 echoed in latest report",
+    "description": "Our expectations for the ProMotion always-on display for both iPhone 16 and iPhone 17 models have been echoed in a new supply-chain report.\n\n\n\nWay back in May of last year, display analyst Ross Young shared what he believes to be Apple’s roadmap for 2024 and …",
+    "url": "https://9to5mac.com/2024/02/27/always-on-display-iphone-16-and-17/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Always-on-display-expectations-for-iPhone-16-and-iPhone-17.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T13:09:12Z",
+    "content": "Our expectations for the ProMotion always-on display for both iPhone 16 and iPhone 17 models have been echoed in a new supply-chain report.\r\nWay back in May of last year, display analyst Ross Young s… [+2140 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Filipe Espósito",
+    "title": "New Beats Solo 4 headphones revealed by internal iOS 17.4 RC files",
+    "description": "Apple on Tuesday released iOS 17.4 RC (Release Candidate) to developers and beta testers, as the update is expected to be released to the public next week. While iOS 17.4 brings changes to the App Store and App Marketplaces for users in the EU, the update als…",
+    "url": "https://9to5mac.com/2024/02/27/beats-solo-4-headphones/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/beats-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T19:24:25Z",
+    "content": "Apple on Tuesday released iOS 17.4 RC (Release Candidate) to developers and beta testers, as the update is expected to be released to the public next week. While iOS 17.4 brings changes to the App St… [+1592 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Sonos delays premium headphones launch, but they’ll still arrive before AirPods Max 2",
+    "description": "Sonos’ long-awaited over-ear headphones have hit a development snag, according to Bloomberg. Today’s report explains that the snag stems from a software problem and will delay the production and release of the headphones. Sonos’ Apple TV competitor and revamp…",
+    "url": "https://9to5mac.com/2024/02/27/sonos-over-ear-headphones-set-top-box-delays/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/sonos-move-2.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T18:02:22Z",
+    "content": "Sonos long-awaited over-ear headphones have hit a development snag, according to Bloomberg. Todays report explains that the snag stems from a software problem and will delay the production and releas… [+1994 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Ben Lovejoy",
+    "title": "Vision Pro rental by the hour or day, ahead of launch in China",
+    "description": "Some enterprising types are offering Vision Pro rental in China to satisfy demand to try the product, which is currently only available for purchase in the US.\n\n\n\nJust one of these rental outlets says that it has had more than 10,000 customers since the servi…",
+    "url": "https://9to5mac.com/2024/02/27/vision-pro-rental/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/Vision-Pro-rental.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T13:43:37Z",
+    "content": "Some enterprising types are offering Vision Pro rental in China to satisfy demand to try the product, which is currently only available for purchase in the US.\r\nJust one of these rental outlets says … [+1640 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Rikka Altland",
+    "title": "Save on official iPhone 15 silicone cases from $26, M1 iPad Pro at $610, Qi2 gear, more",
+    "description": "A collection of official iPhone 15 series silicone cases is headlining all of today’s best deals. Pricing across all four of Apple’s latest smartphones starts from $26 to go alongside a clearance discount on Apple’s M1 iPad Pro at $610. Plus, the all-new Anke…",
+    "url": "https://9to5mac.com/2024/02/27/iphone-15-silicone-cases-m1-ipad-pro-more/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/spring-iphone-15-cases.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T16:46:00Z",
+    "content": "A collection of official iPhone 15 series silicone cases is headlining all of today’s best deals. Pricing across all four of Apple’s latest smartphones starts from $26 to go alongside a clearance dis… [+3614 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "9to5Mac"
+    },
+    "author": "Chance Miller",
+    "title": "Rumor: These are the devices that will support iOS 18 and iPadOS 18",
+    "description": "iOS 18 will be announced at WWDC in June, and is rumored to be one of the biggest updates ever for iPhone users. Now, a new rumor allegedly offers our first look at which devices will be compatible with iOS 18 when it’s released later this year. The rumor als…",
+    "url": "https://9to5mac.com/2024/02/27/ios-18-devices-rumor/",
+    "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/02/ios-18-siri-ai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+    "publishedAt": "2024-02-27T15:04:29Z",
+    "content": "iOS 18 will be announced at WWDC in June, and is rumored to be one of the biggest updates ever for iPhone users. Now, a new rumor allegedly offers our first look at which devices will be compatible w… [+2474 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Bloomberg",
+    "title": "Apple pulls the plug on its electric car project",
+    "description": "Filed under:\n Green,Electric\n Continue reading Apple pulls the plug on its electric car project\nApple pulls the plug on its electric car project originally appeared on Autoblog on Tue, 27 Feb 2024 15:01:00 EST. Please see our terms for use of feeds.\nPermalink…",
+    "url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_11a3b373-1ecd-4dcd-a5fd-202a353ba329",
+    "urlToImage": null,
+    "publishedAt": "2024-02-27T20:01:00Z",
+    "content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Dezeen"
+    },
+    "author": "Rima Sabina Aouf",
+    "title": "Samsung unveils Galaxy smart ring for health tracking",
+    "description": "Samsung has previewed its first smart ring at the Mobile World Congress in Barcelona, positioning it as a comprehensive health tracker enhanced with AI insights. The Galaxy Ring is set to launch later this year and, according to Samsung, will offer a simplifi…",
+    "url": "https://www.dezeen.com/2024/02/27/samsung-galaxy-smart-ring-technology-news/",
+    "urlToImage": "https://static.dezeen.com/uploads/2024/02/samsung-galaxy-ring_dezeen_1704_hero.jpg",
+    "publishedAt": "2024-02-27T10:45:13Z",
+    "content": "Samsung has previewed its first smart ring at the Mobile World Congress in Barcelona, positioning it as a comprehensive health tracker enhanced with AI insights.\r\nThe Galaxy Ring is set to launch lat… [+3525 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Tim.blog"
+    },
+    "author": "Tim Ferriss",
+    "title": "Claire Hughes Johnson, Building Stripe from 160 to 6,000+ Employees — How to Take Radical Ownership of Your Life and Career (#724)",
+    "description": "Interview with Claire Hughes Johnson on The Tim Ferriss Show podcast. \nThe post Claire Hughes Johnson, Building Stripe from 160 to 6,000+ Employees — How to Take Radical Ownership of Your Life and Career (#724) appeared first on The Blog of Author Tim Ferriss.",
+    "url": "https://tim.blog/2024/02/27/claire-hughes-johnson/",
+    "urlToImage": "https://149346886.v2.pressablecdn.com/wp-content/uploads/2024/02/Claire-Hughes-Johnson-Illustration-Final2-scaled.jpeg",
+    "publishedAt": "2024-02-27T21:53:31Z",
+    "content": "Illustration via 99designs\r\n“There are two gaps that I think are really hard. One is people who can’t stop being victims, and the other gap is, I call it self-awareness gap, where they think they are… [+12102 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Barbara Kollmeyer",
+    "title": "Trader who nailed the 2022 selloff says set aside some cash to buy a looming 10% stock pullback",
+    "description": "A Singapore trader expects another sizeable pullback in the short term",
+    "url": "https://www.marketwatch.com/story/trader-who-nailed-the-2022-selloff-says-set-aside-some-cash-to-buy-a-looming-10-stock-pullback-7a2094a0",
+    "urlToImage": "https://images.mktw.net/im-79393772/social",
+    "publishedAt": "2024-02-27T11:48:00Z",
+    "content": "When Nvidia \r\n NVDA,\r\n +0.35%\r\ntripped a rip-roaring rally for the S&amp;P 500 \r\n SPX\r\n last week, it marked the first time in a year for a 2% market move in either direction.Trader Simon Ree recalls… [+8217 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Amber Neely)",
+    "title": "Apple is gearing up to celebrate spring with new Apple Watch band colors",
+    "description": "Apple is preparing to usher in the new season with a sunny new lineup of Apple Watch bands in a variety of pastel colors.2023 spring Apple Watch bands - image credit MacRumorsWhile not officially announced, Apple is likely gearing up for a spring special even…",
+    "url": "https://appleinsider.com/articles/24/02/27/apple-is-gearing-up-to-celebrate-spring-with-new-apple-watch-band-colors",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58751-119729-watchbandd-xl.jpg",
+    "publishedAt": "2024-02-27T20:20:40Z",
+    "content": "2023 spring Apple Watch bands - image credit MacRumors\r\nApple is preparing to usher in the new season with a sunny new lineup of Apple Watch bands in a variety of pastel colors.\r\nWhile not officially… [+843 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": " William Gallagher",
+    "title": "Apple wants you to be able to touch and feel things in AR or VR",
+    "description": "It's not enough to be able to see digital elements in the real world through the Apple Vision Pro, Apple wants a complete sensory experience, including feel.If it's for a smart ring, Apple wants us to buy ten of themA newly-granted patent appears to be yet an…",
+    "url": "https://appleinsider.com/articles/24/02/27/apple-wants-you-to-be-able-to-touch-and-feel-things-in-ar-or-vr",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58745-119721-000-lede-Smart-Rings-xl.jpg",
+    "publishedAt": "2024-02-27T16:22:07Z",
+    "content": "If it's for a smart ring, Apple wants us to buy ten of them\r\nIt's not enough to be able to see digital elements in the real world through the Apple Vision Pro, Apple wants a complete sensory experien… [+2975 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Wesley Hilliard)",
+    "title": "visionOS 1.1 includes the ability to delete most of the pre-installed apps",
+    "description": "Apple Vision Pro users may have noticed that most pre-installed Apple apps can't be deleted, but that changes with visionOS 1.1.Delete pre-installed apps on visionOS 1.1Apple includes 15 pre-installed visionOS native apps, and only two could be deleted in the…",
+    "url": "https://appleinsider.com/articles/24/02/27/visionos-11-includes-the-ability-to-delete-most-of-the-pre-installed-apps",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58752-119732-IMG_5027-xl.jpg",
+    "publishedAt": "2024-02-27T20:45:29Z",
+    "content": "Delete pre-installed apps on visionOS 1.1\r\nApple Vision Pro users may have noticed that most pre-installed Apple apps can't be deleted, but that changes with visionOS 1.1.\r\nApple includes 15 pre-inst… [+1094 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": " William Gallagher",
+    "title": "Future Apple hardware could work together to tell you about sounds in other rooms",
+    "description": "If you're reading this, you've probably got a lot of Apple devices in your house. Apple is working on technology to get them all to listen to your house, and tell you at your desk when something is going on in another room.Apple wants homes to be filled with …",
+    "url": "https://appleinsider.com/articles/24/02/27/future-apple-hardware-could-work-together-to-tell-you-about-sounds-in-other-rooms",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58744-119718-000-lead-Apple-Home-xl.jpg",
+    "publishedAt": "2024-02-27T13:52:51Z",
+    "content": "Apple wants homes to be filled with Apple devices that talk to each other -- and listen, too. (Source: Apple)\r\nIf you're reading this, you've probably got a lot of Apple devices in your house. Apple … [+4367 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": " William Gallagher",
+    "title": "Apple sues US Patent Office over augmented reality trademarks",
+    "description": "Apple has again filed a suit against the USPTO following the office's refusing to allow terms such as \"Reality Composer\" to be trademarked.Apple's Reality Composer software for AR developersPreviously Apple has sued the USPTO over trademarks such as that for …",
+    "url": "https://appleinsider.com/articles/24/02/27/apple-sues-us-patent-office-over-augmented-reality-trademarks",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58740-119716-000-lede-Reality-Composer-d2-xl.jpg",
+    "publishedAt": "2024-02-27T11:29:08Z",
+    "content": "Apple's Reality Composer software for AR developers\r\nApple has again filed a suit against the USPTO following the office's refusing to allow terms such as \"Reality Composer\" to be trademarked.\r\nPrevi… [+1897 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Mike Wuerthele)",
+    "title": "Decade-old Apple Car project may be completely dead",
+    "description": "A report on Tuesday claims that Apple's long-running car project also known as \"Project Titan\" has been killed.Apple Car may be cancelledDetails are scant at the moment, but in a report on Tuesday, Bloomberg Mark Gurman says that the Apple Car program is fina…",
+    "url": "https://appleinsider.com/articles/24/02/27/decade-old-apple-car-project-may-be-completely-dead",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58749-119726-Apple-Crossover-xl.jpg",
+    "publishedAt": "2024-02-27T19:22:52Z",
+    "content": "Apple Car may be cancelled\r\nA report on Tuesday claims that Apple's long-running car project also known as \"Project Titan\" has been killed.\r\nDetails are scant at the moment, but in a report on Tuesda… [+4546 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": " William Gallagher",
+    "title": "iPhone 17 and iPhone 17 Plus rumored to get Always-On and ProMotion displays",
+    "description": "A new industry report says that Apple will bring its previously Pro-only Always-On and 120Hz ProMotion screen refreshing to the base iPhone models in 2025.An iPhone OLED screenAfter introducing 120Hz ProMotion with the iPad Pro back in 2017, Apple brought it …",
+    "url": "https://appleinsider.com/articles/24/02/27/always-on-and-promotion-come-to-iphone-17-and-iphone-17-plus",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/53888-108424-53662-107899-40451-77913-38908-74291-50532869181_ee5d0cdc67_k-xl-l-xl-xl.jpg",
+    "publishedAt": "2024-02-27T10:53:09Z",
+    "content": "An iPhone OLED screen\r\nA new industry report says that Apple will bring its previously Pro-only Always-On and 120Hz ProMotion screen refreshing to the base iPhone models in 2025.\r\nAfter introducing 1… [+1652 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Malcolm Owen)",
+    "title": "One week before EU's DMA kicks in, iOS 17.4 & iPadOS 17.4 release candidates are out",
+    "description": "One week before the European Union's Digital Markets Act kicks in, Apple's release candidate betas of iOS 17.4, iPadOS 17.4, tvOS 17.4, and macOS Sonoma 14.4 incorporating changes for the law are available.iOS 17Developers participating in Apple's beta progra…",
+    "url": "https://appleinsider.com/articles/24/02/27/one-week-before-eus-dma-kicks-in-ios-174-ipados-174-release-candidates-are-out",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/56302-114322-55901-113522-iOS-17-Beta-6-xl-xl.jpg",
+    "publishedAt": "2024-02-27T18:49:33Z",
+    "content": "iOS 17\r\nOne week before the European Union's Digital Markets Act kicks in, Apple's release candidate betas of iOS 17.4, iPadOS 17.4, tvOS 17.4, and macOS Sonoma 14.4 incorporating changes for the law… [+2849 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Mike Wuerthele)",
+    "title": "Apple's 'Ask' project may be far more than just an AI-assisted support tool",
+    "description": "A report that revealed Apple's \"Ask\" tool may not have been the whole story, with a leaker exclusively telling AppleInsider that the project goes beyond a simple language learning model or generative AI tool.Apple is working on AI toolsSparse details about a …",
+    "url": "https://appleinsider.com/articles/24/02/27/apples-ask-project-may-be-far-more-than-just-an-ai-assisted-support-tool",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58703-119640-SiriGPT-xl.jpg",
+    "publishedAt": "2024-02-27T11:51:11Z",
+    "content": "Apple is working on AI tools\r\nA report that revealed Apple's \"Ask\" tool may not have been the whole story, with a leaker exclusively telling AppleInsider that the project goes beyond a simple languag… [+2685 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Malcolm Owen)",
+    "title": "Beats Solo 4 surface eight years after the Solo 3 debuted",
+    "description": "Apple subsidiary Beats is working on a new addition to its Beats Solo range, with the Solo 4 appearing in Tuesday's iOS 17.4 release candidate.Beats Solo 4 as found in the iOS 17.4 RCThe Solo 3 were Beats' highly-popular over-ear headphones, released in many …",
+    "url": "https://appleinsider.com/articles/24/02/27/beats-solo-4-surface-eight-years-after-the-solo-3-debuted",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58750-119731-beatssolo4b-xl.jpg",
+    "publishedAt": "2024-02-27T20:25:16Z",
+    "content": "Beats Solo 4 as found in the iOS 17.4 RC\r\nApple subsidiary Beats is working on a new addition to its Beats Solo range, with the Solo 4 appearing in Tuesday's iOS 17.4 release candidate. \r\nThe Solo 3 … [+928 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Malcolm Owen)",
+    "title": "iPhone 16 Pro fidget-spinner camera bump rumor is bogus",
+    "description": "A rumor claiming that Apple is changing the iPhone 16 Pro camera bump from a square to a triangle makes no sense, and has no back-up from any other rumor source.Supposed iPhone 16 Pro camera bump changes [X/MajinBuOfficial]The bump on the back of the iPhone h…",
+    "url": "https://appleinsider.com/articles/24/02/27/iphone-16-pro-fidget-spinner-camera-bump-rumor-is-bogus",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58748-119725-majinbucameraleaks-xl.jpg",
+    "publishedAt": "2024-02-27T17:55:30Z",
+    "content": "Supposed iPhone 16 Pro camera bump changes [X/MajinBuOfficial]\r\nA rumor claiming that Apple is changing the iPhone 16 Pro camera bump from a square to a triangle makes no sense, and has no back-up fr… [+2282 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": " William Gallagher",
+    "title": "Which iPhones and iPads will be supported with iOS 18 and iPadOS 18?",
+    "description": "A credible leaker has detailed which iPhones and iPads will be supported in iOS 18 and iPadOS 18.A new leak claims to reveal which iPads will support iPadOS 18Around four months before Apple is due to announce iOS 18 and iPadOS 18 at WWDC 2024, there have alr…",
+    "url": "https://appleinsider.com/articles/24/02/27/which-iphones-and-ipads-will-be-supported-with-ios-18-and-ipados-18",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58746-119719-iOad-xl.jpg",
+    "publishedAt": "2024-02-27T16:04:49Z",
+    "content": "A new leak claims to reveal which iPads will support iPadOS 18\r\nA credible leaker has detailed which iPhones and iPads will be supported in iOS 18 and iPadOS 18.\r\nAround four months before Apple is d… [+2026 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Mike Wuerthele)",
+    "title": "Fourth visionOS 1.1 developer beta lands with more fixes",
+    "description": "Developers that own the Apple Vision Pro can now try out the fourth beta build, with even more fixes implemented.visionOSThe third visionOS beta was issued on February 20 and replaced the second from February 13. The first beta arrived on February 6.The relea…",
+    "url": "https://appleinsider.com/articles/24/02/27/fourth-visionos-11-developer-beta-lands-with-more-fixes",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/57058-116036-visionOS-home-xl.jpg",
+    "publishedAt": "2024-02-27T18:50:45Z",
+    "content": "visionOS\r\nDevelopers that own the Apple Vision Pro can now try out the fourth beta build, with even more fixes implemented.\r\nThe third visionOS beta was issued on February 20 and replaced the second … [+1342 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Wesley Hilliard)",
+    "title": "New Atomic Stealer malware variant harder to detect in macOS",
+    "description": "The Atomic Stealer malware still relies on users installing fake software with a payload hidden in the .dmg file, but it is evolving to get harder to detect.Atomic Stealer infects macOS via illegitimate softwareAtomic Stealer hides in illegitimate software do…",
+    "url": "https://appleinsider.com/articles/24/02/27/new-atomic-stealer-malware-variant-harder-to-detect-in-macos",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58753-119734-AMOS-xl.jpg",
+    "publishedAt": "2024-02-27T23:19:14Z",
+    "content": "Atomic Stealer infects macOS via illegitimate software\r\nThe Atomic Stealer malware still relies on users installing fake software with a payload hidden in the .dmg file, but it is evolving to get har… [+1764 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Wesley Hilliard)",
+    "title": "Netflix ends subscriptions for legacy in-app payment users",
+    "description": "It was once possible to sign up for Netflix directly in the iPhone app, but anyone still holding on to that plan has lost access and must sign up directly on the Netflix website.NetflixNetflix ended the ability to subscribe from within its iOS app in 2018. Th…",
+    "url": "https://appleinsider.com/articles/24/02/27/netflix-ends-subscriptions-for-legacy-in-app-payment-users",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58737-119714-IMG_0073-xl.jpg",
+    "publishedAt": "2024-02-27T01:13:56Z",
+    "content": "Netflix\r\nIt was once possible to sign up for Netflix directly in the iPhone app, but anyone still holding on to that plan has lost access and must sign up directly on the Netflix website.\r\nNetflix en… [+1390 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "AppleInsider"
+    },
+    "author": "(Michael Stroup)",
+    "title": "Score a month-end $250 discount on Apple's 1TB MacBook Pro 14-inch",
+    "description": "The 14-inch MacBook Pro is now the defacto pro-level starting point in Apple's laptop line, and shoppers have more incentive to look past entry-level machines thanks to a $250 discount on the M3 Pro model offered at B&H Photo.The B&H Photo discount brings the…",
+    "url": "https://appleinsider.com/articles/24/02/27/score-a-month-end-250-discount-on-apples-1tb-macbook-pro-14-inch",
+    "urlToImage": "https://photos5.appleinsider.com/gallery/58747-119724-14-inch-macbook-pro-sale-xl.jpg",
+    "publishedAt": "2024-02-27T18:39:07Z",
+    "content": "The 14-inch MacBook Pro is now the defacto pro-level starting point in Apple's laptop line, and shoppers have more incentive to look past entry-level machines thanks to a $250 discount on the M3 Pro … [+1888 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNET"
+    },
+    "author": "Adam Oram",
+    "title": "Apple AirTag Trackers Are Under $20 Apiece With This Amazon Deal - CNET",
+    "description": "Snag a four-pack of AirTags for just $78 with this limited-time deal.",
+    "url": "https://www.cnet.com/deals/apple-airtag-trackers-are-under-20-apiece-with-this-amazon-deal/",
+    "urlToImage": "https://www.cnet.com/a/img/resize/70449a0c0a11d94d8c789da36639709f23825d82/hub/2023/11/20/69a8003f-39fd-454c-98b3-160c1bf52f21/airtag-4-pack-bf.jpg?auto=webp&fit=crop&height=675&width=1200",
+    "publishedAt": "2024-02-27T13:46:39Z",
+    "content": "There are few things more irritating on the day-to-day than losing your keys. Maybe losing your wallet comes close, but if you've ever found yourself taking your sofa apart to find your erstwhile car… [+5498 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "tristan carballeda",
+    "title": "Applications web : le bras de fer continue entre l’Europe et Apple",
+    "description": "Apple pourrait bien se lancer dans un nouveua bras de fer juridique avec l'Europe. Après de nombreuses batailles, la Commission est prête à retourner au combat.",
+    "url": "https://www.journaldugeek.com/2024/02/27/applications-web-le-bras-de-fer-continue-entre-leurope-et-apple/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/02/iOS-17-application-web.jpg",
+    "publishedAt": "2024-02-27T11:44:01Z",
+    "content": "La Commission Européenne se dit “à l’écoute” pour le moment des possibles plaintes des développeurs européens contre Apple. Ces derniers pourraient se plaindre dans les prochains jours de la fin des … [+3420 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "tristan carballeda",
+    "title": "Si vous payez toujours Netflix avec votre iPhone, il va falloir changer de méthode",
+    "description": "Netflix vient d'annoncer à ses clients qu'il sera impossible de régler son abonnement par le système de paiement d'Apple.",
+    "url": "https://www.journaldugeek.com/2024/02/27/si-vous-payez-toujours-netflix-avec-votre-iphone-il-va-falloir-changer-de-methode/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/01/netflix-essentiel-disparition-prochaine.jpg",
+    "publishedAt": "2024-02-27T08:28:58Z",
+    "content": "Netflix vient de durcir encore le ton face à Apple et son système de paiement sur l’App Store. Depuis la fin d’année 2018, il était déjà impossible de s’abonner à Netflix depuis un iPhone. La platefo… [+2449 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Journal du geek"
+    },
+    "author": "Thomas Estimbre",
+    "title": "Cette marque de smartphone prépare son grand retour en France",
+    "description": "Discrètement présent au MWC 2024, OPPO prépare un plan de grande envergure. La marque va revenir en Europe, et en France.",
+    "url": "https://www.journaldugeek.com/2024/02/27/cette-marque-de-smartphone-prepare-son-grand-retour-en-france/",
+    "urlToImage": "https://www.journaldugeek.com/app/uploads/2024/02/oppo-find-x7-ultra.jpg",
+    "publishedAt": "2024-02-27T17:02:52Z",
+    "content": "Depuis la fin du litige opposant OPPO et Nokia, un retour en Europe du constructeur chinois est évoqué. L’accord entre les deux parties, autour de licence sur les brevets 5G, ouvre en effet la porte … [+2731 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Core77.com"
+    },
+    "author": "Rain Noe",
+    "title": "Designey MagSafe Charging Stands",
+    "description": "Product company Electric Trout brings some designey-ness to the world of MagSafe chargers, eschewing the typical EDC aesthetic for something recalling '90s Alessi. All are made of acrylic.The $39 Expo Apple Watch charging stand features an elastic strap to ho…",
+    "url": "https://www.core77.com/posts/128976/Designey-MagSafe-Charging-Stands",
+    "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1496903_lead_400_128976_.jpg",
+    "publishedAt": "2024-02-27T16:00:00Z",
+    "content": "Product company Electric Trout brings some designey-ness to the world of MagSafe chargers, eschewing the typical EDC aesthetic for something recalling '90s Alessi. All are made of acrylic.\r\nThe $39 E… [+397 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "El coche de Apple, cancelado: diez años de inversiones y esfuerzo no han dado con la fórmula para lanzarlo",
+    "description": "Mark Gurman ha soltado la noticia cuando creíamos que la jornada de rumores había terminado. Según el conocido filtrador, Apple ha decidido abandonar su proyecto de coche eléctrico viendo que no tenía un rumbo claro tras demasiado tiempo intentando buscarlo.\n…",
+    "url": "https://www.applesfera.com/apple-1/coche-apple-cancelado-diez-anos-inversiones-esfuerzo-no-han-dado-formula-para-lanzarlo",
+    "urlToImage": "https://i.blogs.es/0c5be4/apple-car/840_560.jpeg",
+    "publishedAt": "2024-02-27T20:47:42Z",
+    "content": "Mark Gurman ha soltado la noticia cuando creíamos que la jornada de rumores había terminado. Según el conocido filtrador, Apple ha decidido abandonar su proyecto de coche eléctrico viendo que no tení… [+2805 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Jesús Quesada",
+    "title": "No tengo ojos para otro teléfono que no sea el iPhone 15 desde que se puede comprar a este precio",
+    "description": "Ya hace unos meses que es posible comprar los últimos teléfonos móviles \"inteligentes\" de Apple, siendo el iPhone 15 la opción más \"asequible\" (por decirlo de alguna manera). Sin embargo, la tienda oficial no es el mejor sitio para hacerse con él, ya que el v…",
+    "url": "https://www.applesfera.com/seleccion/no-tengo-ojos-para-otro-telefono-que-no-sea-iphone-15-que-se-puede-comprar-a-este-precio",
+    "urlToImage": "https://i.blogs.es/ca4ac1/iphone-15-1-/840_560.jpeg",
+    "publishedAt": "2024-02-27T09:32:36Z",
+    "content": "Ya hace unos meses que es posible comprar los últimos teléfonos móviles \"inteligentes\" de Apple, siendo el iPhone 15 la opción más \"asequible\" (por decirlo de alguna manera). Sin embargo, la tienda o… [+2912 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "iOS 17.4 no es suficiente: la Comisión Europea investiga a Apple por la legalidad de eliminar las webapps",
+    "description": "Estamos a apenas unos días de ver iOS 17.4 como una actualización histórica para el iPhone. Lo es por novedades que llegarán a la Unión Europea en relación a la llegada de nuevas tiendas de aplicaciones y también por los cambios en el motor del navegador de i…",
+    "url": "https://www.applesfera.com/desarrollo-de-software/ios-17-4-no-suficiente-comision-europea-investiga-a-apple-legalidad-eliminar-webapps",
+    "urlToImage": "https://i.blogs.es/6eb75c/ios-17-4-europa/840_560.jpeg",
+    "publishedAt": "2024-02-27T08:25:36Z",
+    "content": "Estamos a apenas unos días de ver iOS 17.4 como una actualización histórica para el iPhone. Lo es por novedades que llegarán a la Unión Europea en relación a la llegada de nuevas tiendas de aplicacio… [+5113 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Netflix ya no quiere tu dinero si pagaste a través del iPhone: así puedes evitar que cancelen tu cuenta",
+    "description": "Netflix, como toda empresa, quiere ganar dinero. Cuanto más, mejor. Es algo que puede cabrear, pero es entendible. Una forma de ganar más dinero es la de priorizar suscripciones hechas en su pasarela de pago, ya que las suscripciones a través de un iPhone o i…",
+    "url": "https://www.applesfera.com/aplicaciones-ios-1/netflix-no-quiere-tu-dinero-pagaste-a-traves-iphone-asi-puedes-evitar-que-cancelen-tu-cuenta",
+    "urlToImage": "https://i.blogs.es/0648d8/netflix/840_560.jpeg",
+    "publishedAt": "2024-02-27T11:01:28Z",
+    "content": "Netflix, como toda empresa, quiere ganar dinero. Cuanto más, mejor. Es algo que puede cabrear, pero es entendible. Una forma de ganar más dinero es la de priorizar suscripciones hechas en su pasarela… [+3207 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Miguel López",
+    "title": "Guía para solucionar la batería del MacBook si deja de cargar al enchufarse",
+    "description": "Si utilizas un MacBook Air o un MacBook Pro, no tengas ninguna duda: su componente más importante es la batería. Sin ella no puedes hacer nada, y es lo primero que va a envejecer con el paso de los años. Por eso, cuando el MacBook no carga, solemos entrar en …",
+    "url": "https://www.applesfera.com/tutoriales/guia-para-solucionar-bateria-macbook-deja-cargar-al-enchufarse",
+    "urlToImage": "https://i.blogs.es/366bdb/captura-de-pantalla-2024-02-27-a-las-17.52.20/840_560.jpeg",
+    "publishedAt": "2024-02-27T18:01:30Z",
+    "content": "Si utilizas un MacBook Air o un MacBook Pro, no tengas ninguna duda: su componente más importante es la batería. Sin ella no puedes hacer nada, y es lo primero que va a envejecer con el paso de los a… [+2751 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Álvaro García M.",
+    "title": "Esta es la mejor hora para irse a dormir y las horas recomendadas por edad, según la ciencia y los consejos de tu iPhone y Apple Watch",
+    "description": "Decir a estas alturas de la vida y del universo que dormir bien es fundamental para nuestras vidas está de más. Pese a todo, insistimos: hay que dormir bien. Es por eso por lo que la ciencia sigue realizando estudios al respecto, sacando conclusiones interesa…",
+    "url": "https://www.applesfera.com/tutoriales/esta-mejor-hora-para-irse-a-dormir-horas-recomendadas-edad-ciencia-consejos-tu-iphone-apple-watch",
+    "urlToImage": "https://i.blogs.es/fae250/dormir-iphone/840_560.jpeg",
+    "publishedAt": "2024-02-27T16:01:32Z",
+    "content": "Decir a estas alturas de la vida y del universo que dormir bien es fundamental para nuestras vidas está de más. Pese a todo, insistimos: hay que dormir bien. Es por eso por lo que la ciencia sigue re… [+7653 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Applesfera.com"
+    },
+    "author": "Alberto García",
+    "title": "Lidl vende baratísimo un cargador perfecto para iPhone que incluye un altavoz",
+    "description": "Cada vez es más habitual encontrar teléfonos que soportan la carga inalámbrica, algo que, por otro lado, llevamos viendo bastante tiempo en los diferentes modelos de Apple. Hay muchas marcas que con el paso de los años han ido sacando sus propios cargadores o…",
+    "url": "https://www.applesfera.com/seleccion/lidl-vende-baratisimo-cargador-perfecto-para-iphone-que-incluye-altavoz",
+    "urlToImage": "https://i.blogs.es/9a77f5/belkin-cargador-cabecera/840_560.jpeg",
+    "publishedAt": "2024-02-27T13:31:28Z",
+    "content": "Cada vez es más habitual encontrar teléfonos que soportan la carga inalámbrica, algo que, por otro lado, llevamos viendo bastante tiempo en los diferentes modelos de Apple. Hay muchas marcas que con … [+2008 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "DIYphotography"
+    },
+    "author": "John Aldred",
+    "title": "NANLINK app v2.0 – redesigned from scratch and coming to iPad",
+    "description": "Nanlite/Nanlux has announced its newest update to the NANLINK smartphone app. For iPhone and Android, NANLINK 2.0 is a complete redesign from the ground up....\nThe post NANLINK app v2.0 – redesigned from scratch and coming to iPad appeared first on DIY Photog…",
+    "url": "https://www.diyphotography.net/nanlink-app-v2-0-redesigned-from-scratch-and-coming-to-ipad/",
+    "urlToImage": "https://www.diyphotography.net/wp-content/uploads/2024/02/nanlink-20.jpg",
+    "publishedAt": "2024-02-27T15:27:27Z",
+    "content": "Nanlite/Nanlux has announced its newest update to the NANLINK smartphone app. For iPhone and Android, NANLINK 2.0 is a complete redesign from the ground up. It provides remote control for the complet… [+2200 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Phandroid - News for Android"
+    },
+    "author": "Tyler Lee",
+    "title": "Motorola takes on Apple’s ecosystem with Smart Connect",
+    "description": "Lenovo and Motorola have announced Smart Connect, a way to unify phones and computers together in a seamless manner.\nThe post Motorola takes on Apple’s ecosystem with Smart Connect appeared first on Phandroid.",
+    "url": "https://phandroid.com/2024/02/27/motorola-takes-on-apples-ecosystem-with-smart-connect/",
+    "urlToImage": "https://phandroid.com/wp-content/uploads/2023/09/lenovo-tab-extreme-7.jpg",
+    "publishedAt": "2024-02-27T12:25:49Z",
+    "content": "If youre in the Apple ecosystem, moving from your iPhone to iPad or Mac computer and back again is relatively quick and painless. With iCloud, all your data is synced including your messages, calenda… [+1188 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Presse-citron",
+    "title": "Une autre version (très moche) de la Dynamic Island chez Apple",
+    "description": "En réalité, Apple en a même imaginé plusieurs. Mais toutes n'ont donc pas réussi à passer l'étape de la sortie publique. Et au vu du design, on comprend vite pourquoi.",
+    "url": "https://www.presse-citron.net/une-autre-version-tres-moche-de-la-dynamic-island-chez-apple/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2024/02/dynamic-island.webp",
+    "publishedAt": "2024-02-27T10:31:25Z",
+    "content": "Une fois n’est pas coutume, voici que nos confrères de chez MacRumors, média anglophone, nous gâtent avec des images inédites de designs imaginés par Apple mais jamais sortis. Cette fois-ci, c’est la… [+4068 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Golem.de"
+    },
+    "author": "Peter Steinlechner",
+    "title": "Spieleabo: Entwickler riechen bei Apple Arcade den \"Geruch des Todes\"",
+    "description": "Schlechte Zahlungsmoral, ewiges Warten auf Antworten: Entwickler üben massive Kritik am Spieleabo Apple Arcade. (Apple Arcade, Apple)",
+    "url": "https://www.golem.de/sonstiges/zustimmung/auswahl.html?from=https%3A%2F%2Fwww.golem.de%2Fnews%2Fspieleabo-entwickler-riechen-bei-apple-arcade-den-geruch-des-todes-2402-182636.html&referer=https%3A%2F%2Ft.co%2Fb78b68feae",
+    "urlToImage": null,
+    "publishedAt": "2024-02-27T11:15:02Z",
+    "content": "Besuchen Sie Golem.de wie gewohnt mit Werbung und Tracking,\r\n indem Sie der Nutzung aller Cookies zustimmen.\r\n Details zum Tracking finden Sie im Privacy Center.\r\nSkript wurde nicht geladen. Informat… [+607 chars]"
+    }
+    ]
+    }
