@@ -22,7 +22,7 @@ export default function Hero() {
   }, [])
   return (
     <>
-      <div className="content-wrapper">
+      <div className="content-wrapper pt-3">
         <div className="container">
           <div className="row aos-init aos-animate" data-aos="fade-up">
             <div className="col-xl-8 stretch-card grid-margin hero">
