@@ -44,7 +44,7 @@ export default function Category() {
                 <div className="row">
                     <div className="col-sm-4 grid-margin">
                         <div className="position-relative">
-                            <div className="rotate-img w-72">
+                            <div className="rotate-img ">
                                 <Image className='rounded-lg'
                                 src={tesla[1]?.urlToImage}
                                 />
@@ -71,7 +71,7 @@ export default function Category() {
                 <div className="row">
                     <div className="col-sm-4 grid-margin">
                         <div className="position-relative">
-                            <div className="rotate-img w-72">
+                            <div className="rotate-img ">
                                 <Image className='rounded-lg'
                                 src={tesla[4]?.urlToImage}
                                 />
@@ -97,7 +97,7 @@ export default function Category() {
                 <div className="row">
                     <div className="col-sm-4 grid-margin">
                         <div className="position-relative">
-                            <div className="rotate-img w-72">
+                            <div className="rotate-img ">
                                 <Image className='rounded-lg'
                                 src={tesla[5]?.urlToImage}
                                 />

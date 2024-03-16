@@ -28,9 +28,9 @@ export default function Trending() {
                         <div className="row">
                         {/*  */}
                             <div className="col-xl-3  treding">
-                            <div className="w-[300px] rounded-md border">
+                            <div className=" rounded-md border">
       
-      <Image className='h-[300px] w-full rounded-t-md object-cover'
+      <Image className=' rounded-t-md '
         src={trending[0]?.urlToImage} />
       <div className="p-4">
         <h1 className="inline-flex items-center text-lg font-semibold">
@@ -51,9 +51,9 @@ export default function Trending() {
    </div>
                             {/*  */}
                             <div className="col-xl-3 treding">
-                            <div className="w-[300px] rounded-md border">
+                            <div className=" rounded-md border">
       
-      <Image className='h-[200px] w-full rounded-t-md object-cover'
+      <Image className=' rounded-t-md'
     
     src={trending[1]?.urlToImage}
   />
@@ -76,9 +76,9 @@ export default function Trending() {
    </div>
                             {/*  */}
                             <div className="col-xl-3 treding">
-                            <div className="w-[300px] rounded-md border">
+                            <div className=" rounded-md border">
       
-      <Image className='h-[200px] w-full rounded-t-md object-cover'
+      <Image className=' rounded-t-md'
     
     src={trending[3]?.urlToImage}
   />
@@ -99,9 +99,9 @@ export default function Trending() {
    </div>
                             {/*  */}
                             <div className="col-xl-3 treding">
-                            <div className="w-[300px] rounded-md border">
+                            <div className="rounded-md border">
       
-      <Image className='h-[200px] w-full rounded-t-md object-cover'
+      <Image className='rounded-t-md '
     
     src={trending[5]?.urlToImage }  />
       <div className="p-4">

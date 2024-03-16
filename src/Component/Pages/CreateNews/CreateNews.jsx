@@ -21,9 +21,8 @@ useEffect(()=>{
 },[field])
 useEffect(()=>{
  let savetodo = JSON.parse(localStorage.getItem('todo'))
- if(!savetodo){
+
   setField(savetodo)
- }
 })
 
 
