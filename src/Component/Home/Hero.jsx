@@ -30,9 +30,9 @@ export default function Hero() {
                 <Image  className='rounded-lg' src={news[3]?.urlToImage} style={{opacity: '0.8', backgroundColor: '#f1f1f1'}}/>
                 <div className="banner-content">
                   <div className="badge text-black ">{news[3]?.source.name}</div>
-                  <h1 className='mb-0 fs-20 text-black'>{news[3]?.author}</h1>
-                  <h4 className='mb-0 text-black'>{news[3]?.description}</h4>
-                  <div className="fs-12 mb-4 mt-3 text-black">
+                  <h1 className=' fs-20 text-black'>{news[3]?.author}</h1>
+                  <h4 className=' text-black'>{news[3]?.description}</h4>
+                  <div className="fs-12  mt-3 text-black">
                     <a href={news[3]?.url} target='blank' className='font-bold text-white'>Read More</a>
                   </div>
                 </div>
@@ -43,7 +43,7 @@ export default function Hero() {
                 <div className="card-body">
                   <h2 className='text-red-500 font-bold'>Latest news</h2>
                   <div className="d-flex border-bottom-blue pt-3  align-items-center justify-content-between">
-                    <div className="pr-3 heading">
+                    <div className=" heading">
                       <h5>{news[0]?.title}</h5>
                       <div className="fs-12">
                         <a href={news[0]?.url} target='blank' className='font-bold text-red-700'>Read More</a>
