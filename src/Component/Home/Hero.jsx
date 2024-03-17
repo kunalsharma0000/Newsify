@@ -46,7 +46,7 @@ export default function Hero() {
                     <div className=" heading">
                       <h5>{news[0]?.title}</h5>
                       <div className="fs-12">
-                        <a href={news[0]?.url} target='blank' className='font-bold text-red-700'>Read More</a>
+                        <a href={news[0]?.url} target='blank' className='pb-4 font-bold text-red-700'>Read More</a>
 
                       </div>
                     </div>
