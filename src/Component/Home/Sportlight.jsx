@@ -142,7 +142,7 @@ export default function Sportlight() {
                                             <div className="col-sm-6">
                                                 <div className="card-title">About Tesla</div>
                                                 <div className="row">
-                                                    <div className="col-sm-12">
+                                                    <div className="col-sm-12 p-0">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
                                                                 <div className="col-sm-5 pr-2">
@@ -161,7 +161,7 @@ export default function Sportlight() {
                                                     </div>
                                                 </div>
                                                 <div className="row">
-                                                    <div className="col-sm-12">
+                                                    <div className="col-sm-12 p-0">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
                                                                 <div className="col-sm-5 pr-2">
@@ -180,7 +180,7 @@ export default function Sportlight() {
                                                     </div>
                                                 </div>
                                                 <div className="row">
-                                                    <div className="col-sm-12">
+                                                    <div className="col-sm-12 p-0">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
                                                                 <div className="col-sm-5 pr-2">
@@ -199,10 +199,10 @@ export default function Sportlight() {
                                                     </div>
                                                 </div>
                                                 <div className="row">
-                                                    <div className="col-sm-12">
+                                                    <div className="col-sm-12 p-0">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
-                                                                <div className="col-sm-5 pr-2">
+                                                                <div className="col-sm-5">
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
@@ -210,7 +210,7 @@ export default function Sportlight() {
                                                              />
                                                                     </div>
                                                                 </div>
-                                                                <div className="col-sm-7 pl-2">
+                                                                <div className="col-sm-7">
                                                                     <p className=' font-bold mb-0'>{tesla[7]?.title}</p>
                                                                 </div>
                                                             </div>
@@ -219,10 +219,10 @@ export default function Sportlight() {
                                                 </div>
                                                 {/*  */}
                                                 <div className="row">
-                                                    <div className="col-sm-12">
+                                                    <div className="col-sm-12 p-0">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
-                                                                <div className="col-sm-5 pr-2">
+                                                                <div className="col-sm-5 ">
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
@@ -230,7 +230,7 @@ export default function Sportlight() {
                                                              />
                                                                     </div>
                                                                 </div>
-                                                                <div className="col-sm-7 pl-2">
+                                                                <div className="col-sm-7 ">
                                                                     <p className=' font-bold mb-0'>{tesla[8]?.title}</p>
                                                                 </div>
                                                             </div>
@@ -242,7 +242,7 @@ export default function Sportlight() {
                                                     <div className="col-sm-12">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
-                                                                <div className="col-sm-5 pr-2">
+                                                                <div className="col-sm-5 ">
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
@@ -250,7 +250,7 @@ export default function Sportlight() {
                                                              />
                                                                     </div>
                                                                 </div>
-                                                                <div className="col-sm-7 pl-2">
+                                                                <div className="col-sm-7 ">
                                                                     <p className=' font-bold mb-0'>{tesla[12]?.title}</p>
                                                                 </div>
                                                             </div>
@@ -262,7 +262,7 @@ export default function Sportlight() {
                                                     <div className="col-sm-12">
                                                         <div className="border-bottom pb-3">
                                                             <div className="row">
-                                                                <div className="col-sm-5 pr-2">
+                                                                <div className="col-sm-5 ">
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
@@ -270,7 +270,7 @@ export default function Sportlight() {
                                                              />
                                                                     </div>
                                                                 </div>
-                                                                <div className="col-sm-7 pl-2">
+                                                                <div className="col-sm-7 ">
                                                                     <p className='font-bold mb-0'>{tesla[10]?.title}</p>
                                                                 </div>
                                                             </div>

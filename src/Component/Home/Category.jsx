@@ -116,7 +116,7 @@ export default function Category() {
                        <span className='mb-0 '>
                         {tesla[5]?.content}
                        </span>
-                       <a href={tesla[5]?.url} target='blank'className='pl-3 font-bold'>Read More</a>
+                       <a href={tesla[5]?.url} target='blank' className='pl-3 font-bold'>Read More</a>
                     </div>
                 </div>
                 {/*  */}
