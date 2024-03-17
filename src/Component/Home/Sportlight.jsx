@@ -5,6 +5,7 @@ import {Image} from 'antd'
 import json from './JSON/Apple.JSON'
 import jsons from './JSON/topbusiness.JSON'
 import teslas from './JSON/tesla.JSON'
+import home from '../../assests/home_1.jpg'
 
 export default function Sportlight() {
     const [tesla,setTesla] = useState([])
@@ -107,7 +108,7 @@ export default function Sportlight() {
                                                 <div className="border-bottom pb-3">
                                                     <div className="rotate-img">
                                                         <Image
-                                                        src={us[0]?.urlToImage}
+                                                        src={us[0]?.urlToImage || home}
                                                         />
                                                     </div>
                                                     <p className=' font-bold mb-0 mt-3'>
@@ -117,7 +118,7 @@ export default function Sportlight() {
                                                 <div className="border-bottom pb-3">
                                                     <div className="rotate-img">
                                                         <Image
-                                                        src={us[1]?.urlToImage}
+                                                        src={us[1]?.urlToImage || home}
                                                         />
                                                     </div>
                                                     <p className=' font-bold mb-0 mt-3'>
@@ -129,7 +130,7 @@ export default function Sportlight() {
                                                     <div className="rotate-img">
                                                         {/* <img src={home} alt="" /> */}
                                                         <Image
-                                                        src={us[2]?.urlToImage}
+                                                        src={us[2]?.urlToImage || home}
                                                         />
                                                     </div>
                                                     <p className=' font-bold mb-0 mt-3'>
@@ -168,7 +169,7 @@ export default function Sportlight() {
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                                    <Image
-                                                                   src ={tesla[2]?.urlToImage}
+                                                                   src ={tesla[2]?.urlToImage || home}
                                                                    />
                                                                     </div>
                                                                 </div>
@@ -187,7 +188,7 @@ export default function Sportlight() {
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                               <Image
-                                                              src={tesla[5]?.urlToImage}
+                                                              src={tesla[5]?.urlToImage || home}
                                                               />     
                                                                     </div>
                                                                 </div>
@@ -206,7 +207,7 @@ export default function Sportlight() {
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
-                                                             src={tesla[7]?.urlToImage}
+                                                             src={tesla[7]?.urlToImage || home}
                                                              />
                                                                     </div>
                                                                 </div>
@@ -226,7 +227,7 @@ export default function Sportlight() {
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
-                                                             src={tesla[8]?.urlToImage}
+                                                             src={tesla[8]?.urlToImage || home}
                                                              />
                                                                     </div>
                                                                 </div>
@@ -246,7 +247,7 @@ export default function Sportlight() {
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
-                                                             src={tesla[12]?.urlToImage}
+                                                             src={tesla[12]?.urlToImage || home}
                                                              />
                                                                     </div>
                                                                 </div>
@@ -266,7 +267,7 @@ export default function Sportlight() {
                                                                     <div className="rotate-img">
                                                                         {/* <img src={home} alt="" width={150} /> */}
                                                              <Image 
-                                                             src={tesla[10]?.urlToImage}
+                                                             src={tesla[10]?.urlToImage || home}
                                                              />
                                                                     </div>
                                                                 </div>
