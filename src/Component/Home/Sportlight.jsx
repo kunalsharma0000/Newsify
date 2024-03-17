@@ -5,7 +5,7 @@ import {Image} from 'antd'
 import json from './JSON/Apple.JSON'
 import jsons from './JSON/topbusiness.JSON'
 import teslas from './JSON/tesla.JSON'
-import home from '../../assests/home_1.jpg'
+// import home from '../../assests/home_1.jpg'
 
 export default function Sportlight() {
     const [tesla,setTesla] = useState([])
