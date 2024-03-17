@@ -17,7 +17,7 @@ export default function Sportlight() {
             setTesla(data.articles)
             console.log(tesla)
         })
-    })
+    },[])
     const[us,setUs]=useState([])
     useEffect(()=>{
         let ress= fetch(jsons)
@@ -28,7 +28,7 @@ export default function Sportlight() {
             setUs(data.articles)
             // console.log(us)
         })
-    })
+    },[])
 
     const[sportlight,setSport] = useState([])
        useEffect(()=>{
@@ -57,7 +57,7 @@ export default function Sportlight() {
                                                 <div className="rotate-img">
                                                     <Image
                                                     src={sportlight[3]?.urlToImage}
-                                                    />
+                                                    />  
                                                 </div>
                                                 <h2 className='mt-3 text-primary mb-2'>
                                                    {sportlight[3]?.title} 
@@ -110,7 +110,7 @@ export default function Sportlight() {
                                                         src={us[0]?.urlToImage}
                                                         />
                                                     </div>
-                                                    <p className='fs-16 font-bold mb-0 mt-3'>
+                                                    <p className=' font-bold mb-0 mt-3'>
                                                         {us[0]?.title || 'Author'}
                                                     </p>
                                                 </div>
@@ -120,7 +120,7 @@ export default function Sportlight() {
                                                         src={us[1]?.urlToImage}
                                                         />
                                                     </div>
-                                                    <p className='fs-16 font-bold mb-0 mt-3'>
+                                                    <p className=' font-bold mb-0 mt-3'>
                                                     {us[1]?.title || 'Author'}
 
                                                     </p>
@@ -132,7 +132,7 @@ export default function Sportlight() {
                                                         src={us[2]?.urlToImage}
                                                         />
                                                     </div>
-                                                    <p className='fs-16 font-bold mb-0 mt-3'>
+                                                    <p className=' font-bold mb-0 mt-3'>
                                                     {us[1]?.title || 'Author'}
 
                                                     </p>
@@ -154,7 +154,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'> {tesla[1]?.title}</p>
+                                                                    <p className=' font-bold mb-0'> {tesla[1]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -173,7 +173,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'>{tesla[2]?.title}</p>
+                                                                    <p className=' font-bold mb-0'>{tesla[2]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -192,7 +192,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'>{tesla[5]?.title}</p>
+                                                                    <p className=' font-bold mb-0'>{tesla[5]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -211,7 +211,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'>{tesla[7]?.title}</p>
+                                                                    <p className=' font-bold mb-0'>{tesla[7]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -231,7 +231,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'>{tesla[8]?.title}</p>
+                                                                    <p className=' font-bold mb-0'>{tesla[8]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -251,7 +251,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'>{tesla[12]?.title}</p>
+                                                                    <p className=' font-bold mb-0'>{tesla[12]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -271,7 +271,7 @@ export default function Sportlight() {
                                                                     </div>
                                                                 </div>
                                                                 <div className="col-sm-7 pl-2">
-                                                                    <p className='fs-16 font-bold mb-0'>{tesla[10]?.title}</p>
+                                                                    <p className='font-bold mb-0'>{tesla[10]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
