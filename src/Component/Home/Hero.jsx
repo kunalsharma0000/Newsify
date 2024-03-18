@@ -37,7 +37,7 @@ export default function Hero() {
                 </div>
               </div>
             </div>
-            <div className="col-xl-4 stretch-card grid-margin p-0 ">
+            <div className="col-xl-4 stretch-card grid-margin ">
               <div className="card bg-dark text-white p-0 ml-2">
                 <div className="card-body ">
                   <h2 className='text-red-500 font-bold'>Latest news</h2>
