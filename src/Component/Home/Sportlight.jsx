@@ -231,8 +231,8 @@ export default function Sportlight() {
                                                              />
                                                                     </div>
                                                                 </div>
-                                                                <div className="col-sm-7 ">
-                                                                    <p className=' font-bold mb-0'>{tesla[8]?.title}</p>
+                                                                <div className="col-sm-7  ">
+                                                                    <p className=' font-bold p-0 m-0'>{tesla[8]?.title}</p>
                                                                 </div>
                                                             </div>
                                                         </div>
