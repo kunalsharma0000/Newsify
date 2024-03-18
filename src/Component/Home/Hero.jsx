@@ -8,7 +8,6 @@ import 'aos/dist/aos.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 
-
 export default function Hero() {
   const [news, setnews] = useState([]);
   useEffect(() => {
