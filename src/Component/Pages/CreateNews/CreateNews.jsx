@@ -2,6 +2,9 @@ import React, { useEffect } from 'react'
 import  './create.css'
 import { useState } from 'react'
 import { useTodo } from '../../../TodoProvider'
+import { Link, json } from 'react-router-dom'
+
+
 
 export default function CreateNews() {
   // const[Title,Settitle] = useState('')
@@ -13,17 +16,18 @@ export default function CreateNews() {
 
   function valueUpdated(){
    setList([...lists,field])
-  //  localStorage.setItem('todolist',JSON.stringify(field))
   
 }
-useEffect(()=>{
-   localStorage.setItem('todo',JSON.stringify(field))
-},[field])
-useEffect(()=>{
- let savetodo = JSON.parse(localStorage.getItem('todo'))
+localStorage.setItem('todolist',JSON.stringify(field))
 
-  setField(savetodo)
-})
+useEffect(()=>{
+  let savetodo = JSON.parse(localStorage.getItem('todolist'));
+  if(savetodo){
+    setField(savetodo)
+  }
+
+},[field])
+
 
 
 
@@ -52,9 +56,9 @@ useEffect(()=>{
                   <label className='pt-4'style={{fontSize:'30px', marginRight:'20px'}} >Description:</label>
                   <input type="text" name='Descriptions' onChange={setFieldValue} placeholder='Enter Your News Description' style={{width:'400px',height:'100px',textAlign:'center',marginTop:'30px'}} /> <br />
                   <label className='pt-4' style={{fontSize:'30px',marginRight:'20px'}} >Upload Image:</label>
-                  <input type="file" /> <br />
+                  <input type="file" className='mb-5' /> <br />
 
-                  <button className='btn-create mt-4' onClick={valueUpdated}>Create</button>
+         <Link className='btn-create mt-5' onClick={valueUpdated} to="/news"> Create</Link>
                 </div>
               </div>
               {/* {lists.map((item,i)=>{
