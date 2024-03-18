@@ -36,8 +36,8 @@ export default function Trending() {
         <h1 className="inline-flex items-center text-lg font-semibold">
           {trending[0]?.author} &nbsp; <ArrowUpRight className="h-4 w-4" />
         </h1>
-        <p className="mt-3 text-lg text-black font-bold">
-          {trending[0]?.title}
+        <p className="mt-2  text-lg text-black font-bold">
+          {trending[9]?.title}
         </p>
         <div className="mt-4">
         <p className="mt-3 text-sm text-gray-600">

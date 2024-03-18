@@ -35,9 +35,7 @@
 
 
 .stretch-card{
-  display: flex;
-  align-items: stretch;
-  justify-content: stretch;
+ 
 }
 .banner-content {
   position: absolute;

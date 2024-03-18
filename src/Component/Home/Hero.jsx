@@ -22,7 +22,7 @@ export default function Hero() {
   return (
     <>
       <div className="content-wrapper pt-3">
-        <div className="container">
+        <div className="container p-0">
           <div className="row aos-init aos-animate" data-aos="fade-up">
             <div className="col-xl-8 stretch-card grid-margin hero p-0">
               <div className="position-relative relative rounded-lg ">
@@ -39,7 +39,7 @@ export default function Hero() {
             </div>
             <div className="col-xl-4 stretch-card grid-margin p-0 ">
               <div className="card bg-dark text-white p-0 ml-2">
-                <div className="card-body ">
+                <div className="card-body pb-5 ">
                   <h2 className='text-red-500 font-bold'>Latest news</h2>
                   <div className="d-flex border-bottom-blue pt-3  align-items-center justify-content-between">
                     <div className=" heading">
